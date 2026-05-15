@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sermão Sunamita.md",
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+                "file": "biblia/2 Reis 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas"
+              "title": "2 Reis 8"
             }
           }
         ]
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "6fc72ce5bb285566",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas"
+              "title": "Links inversos para Sermão Sunamita"
             }
           },
           {
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas"
+              "title": "Sumário de Sermão Sunamita"
             }
           },
           {
@@ -214,14 +213,24 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md"
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
             }
+          },
+          {
+            "id": "e22d48b0d0fdc32c",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -242,11 +251,15 @@
       "markdown-importer:Abrir importador Markdown": false
     }
   },
-  "active": "574ec2711538642c",
+  "active": "e22d48b0d0fdc32c",
   "lastOpenFiles": [
-    "Sermão Sunamita.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/analise_exegese_2_reis_8_1-6.md",
+    "biblia/2 Reis 8.md",
+    "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+    "Sem título.md",
+    "biblia/Zacarias.md",
+    "biblia/2 Reis 2.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/analise_exegese_2_reis_8_1-6.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/__ren_tmp__8cf04d9a75974104aedfeb17ead7463e.md",
     "Templates/Seta.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Memory Context - Snapshot.md",
@@ -266,10 +279,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/148 - A Memória Divina Como Deus Se Lembra dos Seus em Tempos de Esquecimento Humano.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/147 - A Oportunidade na Adversidade Como Deus Transforma Crises em Bênçãos.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/146 - A Provisão Contínua Deus Sustenta Seus Filhos em Todas as Estações.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/145 - A Soberania na Restauração Deus Reverte a Perda para Sua Glória.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/144 - A Graça da Antecipação Deus nos Prepara para o Futuro.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/143 - A Providência Oculta A Mão de Deus Agindo nos Bastidores da Vida.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/142 - A Memória de Deus Ele Não Esquece Suas Promessas e Seus Filhos.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Nova pasta",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/How to Interpret Uploaded Text File Content.zip",

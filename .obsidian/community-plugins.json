@@ -8,5 +8,8 @@
   "obsidian-linter",
   "obsidian-custom-frames",
   "obsidian-icon-folder",
-  "obsidian-local-rest-api"
+  "obsidian-local-rest-api",
+  "github-copilot",
+  "github-sync",
+  "github-gitless-sync"
 ]
