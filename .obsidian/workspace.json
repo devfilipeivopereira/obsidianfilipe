@@ -1,0 +1,285 @@
+{
+  "main": {
+    "id": "34564660ba8192e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "174fe0d180bb9bb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "140081df65ad0251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/analise_exegese_2_reis_8_1-6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "analise_exegese_2_reis_8_1-6"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2216fc0c287c1b52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54acc115929ae6f0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sermão Sunamita.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Sermão Sunamita"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d07dba48012b68bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "574ec2711538642c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "497466c1220f47ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be26673800cd00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29578b91d9aad0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "079f117b634cc0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "71007f597614a8e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6fc72ce5bb285566",
+    "type": "split",
+    "children": [
+      {
+        "id": "711943c12d5d208e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4195791d1ba5853",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas"
+            }
+          },
+          {
+            "id": "3c819f49d3de25db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "1002362dd8acb7d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3e410d2486312243",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "45712aeadaf3d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas"
+            }
+          },
+          {
+            "id": "06ea41f8c0ccead9",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas de rodapé"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "markdown-importer:Abrir importador Markdown": false
+    }
+  },
+  "active": "574ec2711538642c",
+  "lastOpenFiles": [
+    "Sermão Sunamita.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/analise_exegese_2_reis_8_1-6.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/__ren_tmp__8cf04d9a75974104aedfeb17ead7463e.md",
+    "Templates/Seta.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Memory Context - Snapshot.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Memory Context - Seed.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/102 - Memory Context.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/103 - Memory Context.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/105 - A Teologia da Restituição Deus Devolve o que a Fome Levou.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/107 - A Provisão Inesperada Deus Suprindo Necessidades em Tempos de Escassez.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/106 - A Obediência que Libera a Bênção O Exemplo da Sunamita.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/109 - Crises como Catalisadores Como Deus Usa a Adversidade para o Nosso Bem.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/108 - A Restauração da Herança O Significado da Terra na Providência Divina.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/153 - Deus no Controle Como a Soberania Divina Orquestra a Restituição.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/152 - O Milagre Silencioso da Preservação A Mão Invisível de Deus na Jornada da Sunamita.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/151 - Fé em Meio à Fome A Sunamita como Modelo de Confiança Inabalável.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/150 - A Soberania de Deus no Tempo Sete Anos e o Retorno Triunfal.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/149 - A Restituição como Símbolo da Redenção A Promessa de Deus para o Futuro.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/148 - A Memória Divina Como Deus Se Lembra dos Seus em Tempos de Esquecimento Humano.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/147 - A Oportunidade na Adversidade Como Deus Transforma Crises em Bênçãos.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/146 - A Provisão Contínua Deus Sustenta Seus Filhos em Todas as Estações.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/145 - A Soberania na Restauração Deus Reverte a Perda para Sua Glória.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/144 - A Graça da Antecipação Deus nos Prepara para o Futuro.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/143 - A Providência Oculta A Mão de Deus Agindo nos Bastidores da Vida.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/142 - A Memória de Deus Ele Não Esquece Suas Promessas e Seus Filhos.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Nova pasta",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/How to Interpret Uploaded Text File Content.zip",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/2 Reis 8 1-6.base",
+    "A Bíblia Sagrada (NVI-PT)/Ageu",
+    "A Bíblia Sagrada (NVI-PT)/Apocalipse",
+    "A Bíblia Sagrada (NVI-PT)/2 Timóteo",
+    "A Bíblia Sagrada (NVI-PT)/2 Tessalonicenses",
+    "A Bíblia Sagrada (NVI-PT)/3 João",
+    "A Bíblia Sagrada (NVI-PT)/2 Samuel",
+    "Sem título.canvas"
+  ]
+}

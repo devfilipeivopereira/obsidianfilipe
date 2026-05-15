@@ -1,0 +1,31 @@
+# Oseias 1
+
+[[Oseias]] | [[Ose 2|Oseias 2 →]]
+
+***
+###### Oseias 1:1
+Palavra do Senhor que veio a Oséias, filho de Beeri, durante os reinados de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e de Jeroboão, filho de Jeoás, rei de Israel.A Mulher e os Filhos de Oséias  
+###### Oseias 1:2
+Quando o Senhor começou a falar por meio de Oséias, disse-lhe: "Vá, tome uma mulher adúltera e filhos da infidelidade, porque a nação é culpada do mais vergonhoso adultério por afastar-se do Senhor".  
+###### Oseias 1:3
+Por isso ele se casou com Gômer, filha de Diblaim; ela engravidou e lhe deu um filho.  
+###### Oseias 1:4
+Então o Senhor disse a Oséias: "Dê-lhe o nome de Jezreel, porque logo castigarei a dinastia de Jeú por causa do massacre ocorrido em Jezreel, e darei fim ao reino de Israel.  
+###### Oseias 1:5
+Naquele dia quebrarei o arco de Israel no vale de Jezreel".  
+###### Oseias 1:6
+Gômer engravidou novamente e deu à luz uma filha. Então o Senhor disse a Oséias: "Dê-lhe o nome de Lo-Ruama, pois não mais mostrarei amor para com a nação de Israel, não ao ponto de perdoá-la.  
+###### Oseias 1:7
+Contudo, tratarei com amor a nação de Judá; e eu lhe concederei vitória, não pelo arco, pela espada ou por combate, nem por cavalos e cavaleiros, mas pelo Senhor, o seu Deus".  
+###### Oseias 1:8
+Depois de desmamar Lo-Ruama, Gômer teve outro filho.  
+###### Oseias 1:9
+Então o Senhor disse: "Dê-lhe o nome de Lo-Ami, pois vocês não são meu povo, e eu não sou seu Deus.  
+###### Oseias 1:10
+"Contudo os israelitas ainda serão como a areia da praia, que não se pode medir nem contar. No lugar onde se dizia a eles: 'Vocês não são meu povo', eles serão chamados 'filhos do Deus vivo'.  
+###### Oseias 1:11
+O povo de Judá e o povo de Israel serão reunidos, e eles designarão para si um só líder, e se levantarão da terra, pois será grande o dia de Jezreel.
+
+***
+
+[[Oseias]] | [[Ose 2|Oseias 2 →]]

@@ -1,0 +1,19 @@
+# Salmos 15
+
+[[Slms 14|← Salmos 14]] | [[Salmos]] | [[Slms 16|Salmos 16 →]]
+
+***
+###### Salmos 15:1
+Senhor, quem habitará no teu santuário?  Quem poderá morar no teu santo monte?  
+###### Salmos 15:2
+Aquele que é íntegro em sua conduta  e pratica o que é justo,  que de coração fala a verdade   
+###### Salmos 15:3
+e não usa a língua para difamar,  que nenhum mal faz ao seu semelhante  e não lança calúnia contra o seu próximo,   
+###### Salmos 15:4
+que rejeita quem merece desprezo,  mas honra os que temem o Senhor,  que mantém a sua palavra,  mesmo quando sai prejudicado,   
+###### Salmos 15:5
+que não empresta o seu dinheiro visando lucro  nem aceita suborno contra o inocente. Quem assim procede  nunca será abalado!
+
+***
+
+[[Slms 14|← Salmos 14]] | [[Salmos]] | [[Slms 16|Salmos 16 →]]
