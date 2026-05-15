@@ -10,6 +10,5 @@
   "obsidian-icon-folder",
   "obsidian-local-rest-api",
   "github-copilot",
-  "github-sync",
-  "github-gitless-sync"
+  "github-sync"
 ]
