@@ -19,10 +19,13 @@
 
 - **Confiou na palavra do Profeta**
 	 - Mesmo sem ver indícios da fome acreditou que aquilo que Elizeu falou aconteceria
+	 - Ela acreditou antes de ter explicações
+	 - 
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
 - **Não teve medo de ir para uma terra estranha e desconfortável**
 	- Estar entre os filisteus não era o mais agradável mas foi o possível
+- **
 ## **Atitudes Dela após a mudança (v. 3):**
 
 ![[2 Reis 8#2 Reis 8 3]]
