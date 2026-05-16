@@ -5,6 +5,7 @@
 ![[2 Reis 8#2 Reis 8 1]]
 
  - Ela recebe uma orientação exclusiva por ser amiga do profeta (Relacionamento - Honra - Confiança)
+	 - O cuidado de Deus vem por meio da orientação de pessoas sábais
 	 - Confie nas instruções e direções dos seus líderes espirituais
 	 - Ela recebe uma revelação de Direção  → Sair do país
 	 - Ela recebe uma revelação de Tempo  → 7 anos de fome
