@@ -178,14 +178,23 @@
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
             }
+          },
+          {
+            "id": "2cc1a28806d51ee8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +213,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "54acc115929ae6f0",
+  "active": "2cc1a28806d51ee8",
   "lastOpenFiles": [
     "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",

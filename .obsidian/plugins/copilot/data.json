@@ -105,8 +105,8 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -138,8 +138,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -149,8 +149,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -244,8 +244,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -255,8 +255,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -266,8 +266,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -277,8 +277,8 @@
       "enabled": false,
       "isBuiltIn": true,
       "capabilities": [
-        "vision",
-        "reasoning"
+        "reasoning",
+        "vision"
       ],
       "apiKey": ""
     },
@@ -496,7 +496,7 @@
   "enableSavedMemory": true,
   "quickCommandIncludeNoteContext": true,
   "autoIncludeTextSelection": false,
-  "autoAddSelectionToContext": false,
+  "autoAddSelectionToContext": true,
   "autoAcceptEdits": false,
   "diffViewMode": "split",
   "userSystemPromptsFolder": "copilot/system-prompts",
