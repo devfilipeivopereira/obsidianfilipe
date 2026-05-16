@@ -47,7 +47,9 @@
 	- Não terceirizou a responsabilidade
 	- Se moveu enquanto acreditava na providência divina
 - Ela discerniu o encontro divino em meio as "coincidências da vida"
-	- No mesmo instante 
+	- No mesmo instante que ela entrou, Geazi estava falando dela ao rei
+- Ela soube agir de forma adequada em cada estação da sua vida
+	- Quando recebe o direcionament
 
 
 
