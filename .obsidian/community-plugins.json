@@ -11,5 +11,6 @@
   "obsidian-local-rest-api",
   "github-copilot",
   "github-sync",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "copilot"
 ]
