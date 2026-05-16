@@ -26,6 +26,7 @@
 	 - Obedeça ao comando possível sem exigir que Deus revele todo o percurso
 	 - Pratique a obediência imediata, mesmo quando a direção parecer difícil.
 	 - Submeta seus planos ao Deus que vê a crise antes que ela chegue.
+	 - Discirna a estação antes que a escassez decida por você.
 
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
