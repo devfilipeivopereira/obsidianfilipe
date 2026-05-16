@@ -22,6 +22,7 @@
 	 - Ela acreditou antes de ter explicações
 	 - Ela não se apegou aos bens que tinha como impedimento para obedecer a orientação de Deus
 	 - Ela tinha poder de escolha
+	 - Ela sabia que a obediência preventiva é um caminho para a proteção divina.
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
 - **Não teve medo de ir para uma terra estranha e desconfortável**
