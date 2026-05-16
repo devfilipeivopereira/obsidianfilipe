@@ -194,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,8 +214,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2cc1a28806d51ee8",
+  "active": "54acc115929ae6f0",
   "lastOpenFiles": [
+    "copilot/copilot-conversations/o_que_estou_estudando@20260516_163835.md",
+    "copilot/copilot-conversations",
     "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
     "Ministério/Sermões/Série Eliseu/Referência Centralizada - Série Eliseu.md",
@@ -242,7 +245,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/esboco_068.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/esboco_067.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/esboco_066.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese/esboco_065.md",
     "Ministério/Sermões/Skill_Revisar",
     "Ministério/Sermões/Skill_Revisão",
     "Ministério/Sermões/Nova pasta",
@@ -250,7 +252,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Nova pasta",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/How to Interpret Uploaded Text File Content.zip",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/2 Reis 8 1-6.base",
-    "A Bíblia Sagrada (NVI-PT)/Ageu",
     "Sem título.canvas"
   ]
 }
