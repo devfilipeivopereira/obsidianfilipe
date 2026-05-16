@@ -42,6 +42,10 @@
 	- Não se desesperou
 	- Não questionou a Deus
 	- Não voltou para a terra dos filisteus 
+- Ela fez sua parte, foi ao encontro do rei
+	- Não ficou passiva
+	- Não terceirizou a responsabilidade
+	- Se moveu enquanto acreditava na providência divina
 
 
 
