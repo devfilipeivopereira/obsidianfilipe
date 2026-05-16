@@ -23,6 +23,7 @@
 	 - Ela não se apegou aos bens que tinha como impedimento para obedecer a orientação de Deus
 	 - Ela tinha poder de escolha
 	 - Ela sabia que a obediência preventiva é um caminho para a proteção divina.
+	 - Obedeça ao comando possível sem exigir que Deus revele todo o percurso
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
 - **Não teve medo de ir para uma terra estranha e desconfortável**
@@ -49,6 +50,7 @@
 	- Se moveu enquanto acreditava na providência divina
 - Ela entendeu que a obediência e submissão ao processo de Deus davam a ela ousadia para falar com o rei e pedir restituição
 	-  Identifique uma área em que você precisa "retornar e reclamar" algo que perdeu por obediência.
+	- Levante-se da indecisão assim que a direção do Senhor ficar clara.
 - Ela discerniu o encontro divino em meio as "coincidências da vida"
 	- No mesmo instante que ela entrou, Geazi estava falando dela ao rei
 - Ela soube agir de forma adequada em cada estação da sua vida nas 3 fases
