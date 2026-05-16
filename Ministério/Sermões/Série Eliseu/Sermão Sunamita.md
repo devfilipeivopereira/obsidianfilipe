@@ -41,6 +41,7 @@
 - **Esperou o tempo necessário se completar**
 	- Não apresou sua volta para antes do 7 anos
 	- Persevere na obediência, mesmo quando a espera for longa e difícil.
+	- Aprenda a perseverar na esperan
 - **Não se perdeu pelo caminho enquanto estava em terra estranha**
 	- Ela volta para sua terra, para seu povo após os 7 anos
 	- Ela não se habitua ao novo território passageiro, na primeira oportunidade segura volta
