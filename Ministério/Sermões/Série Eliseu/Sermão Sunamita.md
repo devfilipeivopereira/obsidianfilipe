@@ -41,7 +41,7 @@
 - **Esperou o tempo necessário se completar**
 	- Não apresou sua volta para antes do 7 anos
 	- Persevere na obediência, mesmo quando a espera for longa e difícil.
-	- Aprenda a perseverar na esperan
+	- Aprenda a perseverar na esperança confiando no direcionamento recebido
 - **Não se perdeu pelo caminho enquanto estava em terra estranha**
 	- Ela volta para sua terra, para seu povo após os 7 anos
 	- Ela não se habitua ao novo território passageiro, na primeira oportunidade segura volta
@@ -60,6 +60,7 @@
 	- Levante-se da indecisão assim que a direção do Senhor ficar clara.
 - Ela discerniu o encontro divino em meio as "coincidências da vida"
 	- No mesmo instante que ela entrou, Geazi estava falando dela ao rei
+	- Busque ver as crises como pontes para a providência multiplicadora de Deus em sua vida.
 - Ela soube agir de forma adequada em cada estação da sua vida nas 3 fases
 	- Quando recebe o direcionamento → ela obedece e se arrisca
 	- Quando está no meio do processo → ela continua submissa e perseverante
