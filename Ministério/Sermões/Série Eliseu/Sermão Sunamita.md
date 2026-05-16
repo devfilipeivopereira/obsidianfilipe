@@ -25,9 +25,12 @@
 	 - Ela sabia que a obediência preventiva é um caminho para a proteção divina.
 	 - Obedeça ao comando possível sem exigir que Deus revele todo o percurso
 	 - Pratique a obediência imediata, mesmo quando a direção parecer difícil.
+	 - Submeta seus planos ao Deus que vê a fome antes que ela chegue.
 
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
+	- Prepare a família para obedecer com unidade, simplicidade e coragem.
+	- Proteja sua casa com decisões guiadas pela Escritura, não pelo pânico ou sentimentos.
 - **Não teve medo de ir para uma terra estranha e desconfortável**
 	- Estar entre os filisteus não era o mais agradável mas foi o possível
 	
