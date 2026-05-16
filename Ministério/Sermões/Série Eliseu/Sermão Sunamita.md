@@ -20,8 +20,8 @@
 - **Confiou na palavra do Profeta**
 	 - Mesmo sem ver indícios da fome acreditou que aquilo que Elizeu falou aconteceria
 	 - Ela acreditou antes de ter explicações
-	 - Ela não se apegou ao que tinha como impedimento
-	 - 
+	 - Ela não se apegou aos bens que tinha como impedimento para obedecer a orientação de Deus
+	 - Ela tinha poder de escolha
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
 - **Não teve medo de ir para uma terra estranha e desconfortável**
