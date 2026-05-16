@@ -1,7 +1,7 @@
 # SUNAMITA
 
 ## **Advertência (v. 1):**
-**
+
 ![[2 Reis 8#2 Reis 8 1]]
 
  - Ela recebe uma orientação exclusiva por ser amiga do profeta (Relacionamento - Honra - Confiança)
