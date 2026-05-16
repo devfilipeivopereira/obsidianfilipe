@@ -61,6 +61,9 @@
 - Ela discerniu o encontro divino em meio as "coincidências da vida"
 	- No mesmo instante que ela entrou, Geazi estava falando dela ao rei
 	- Busque ver as crises como pontes para a providência multiplicadora de Deus em sua vida.
+	- Celebre a bênção que surge da crise em sua vida, compartilhando seu testemunho.
+	- Celebre a generosidade de Deus, que honra a paciência com bênçãos abundantes.
+	- O milagre do passado, abre portas no futuro.
 - Ela soube agir de forma adequada em cada estação da sua vida nas 3 fases
 	- Quando recebe o direcionamento → ela obedece e se arrisca
 	- Quando está no meio do processo → ela continua submissa e perseverante
