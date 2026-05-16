@@ -41,7 +41,7 @@
 	- Não murmurou
 	- Não se desesperou
 	- Não questionou a Deus
-	- Não voltou para a terra dos filisteus
+	- Não voltou para a terra dos filisteus 
 
 
 
