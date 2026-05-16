@@ -48,6 +48,7 @@
 	- Não terceirizou a responsabilidade
 	- Se moveu enquanto acreditava na providência divina
 - Ela entendeu que a obediência e submissão ao processo de Deus davam a ela ousadia para falar com o rei e pedir restituição
+	-  Identifique uma área em que você precisa "retornar e reclamar" algo que perdeu por obediência.
 - Ela discerniu o encontro divino em meio as "coincidências da vida"
 	- No mesmo instante que ela entrou, Geazi estava falando dela ao rei
 - Ela soube agir de forma adequada em cada estação da sua vida nas 3 fases

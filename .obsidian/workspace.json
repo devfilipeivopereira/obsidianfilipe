@@ -178,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+                "file": "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sermão Sunamita"
+              "title": "Sumário de Ações Práticas por Categoria - Série Eliseu"
             }
           },
           {
@@ -193,7 +193,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md"
+                "file": "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas de rodapé"
@@ -234,10 +234,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "54acc115929ae6f0",
+  "active": "91ccd3eb483eb033",
   "lastOpenFiles": [
-    "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+    "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/26_serie_alto_impacto.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/25_bob_smiley.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/24_timothy_keller.md",
