@@ -24,17 +24,20 @@
 	 - Ela tinha poder de escolha
 	 - Ela sabia que a obediência preventiva é um caminho para a proteção divina.
 	 - Obedeça ao comando possível sem exigir que Deus revele todo o percurso
+	 - Pratique a obediência imediata, mesmo quando a direção parecer difícil.
+
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
 - **Não teve medo de ir para uma terra estranha e desconfortável**
 	- Estar entre os filisteus não era o mais agradável mas foi o possível
-- **
+	
 ## **Atitudes Dela após a mudança (v. 3):**
 
 ![[2 Reis 8#2 Reis 8 3]]
 
 - **Esperou o tempo necessário se completar**
 	- Não apresou sua volta para antes do 7 anos
+	- Persevere na obediência, mesmo quando a espera for longa e difícil.
 - **Não se perdeu pelo caminho enquanto estava em terra estranha**
 	- Ela volta para sua terra, para seu povo após os 7 anos
 	- Ela não se habitua ao novo território passageiro, na primeira oportunidade segura volta
