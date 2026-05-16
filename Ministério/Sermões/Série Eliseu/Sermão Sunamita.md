@@ -49,7 +49,9 @@
 - Ela discerniu o encontro divino em meio as "coincidências da vida"
 	- No mesmo instante que ela entrou, Geazi estava falando dela ao rei
 - Ela soube agir de forma adequada em cada estação da sua vida
-	- Quando recebe o direcionament
+	- Quando recebe o direcionamento → ela obedece e se arrisca
+	- Quando está no meio do processo → ela continua submissa e perseverante
+	- Quando retorna 
 
 
 
