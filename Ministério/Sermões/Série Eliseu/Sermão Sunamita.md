@@ -20,6 +20,7 @@
 - **Confiou na palavra do Profeta**
 	 - Mesmo sem ver indícios da fome acreditou que aquilo que Elizeu falou aconteceria
 	 - Ela acreditou antes de ter explicações
+	 - Ela não se apegou ao que tinha como impedimento
 	 - 
 - **Envolveu toda sua família**
 	- Ninguém ficou para trás
