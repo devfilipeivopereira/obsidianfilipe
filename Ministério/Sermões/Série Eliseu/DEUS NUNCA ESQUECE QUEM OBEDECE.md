@@ -2,6 +2,15 @@
 
 ## INTRODUÇÃO
 
+A maioria de nós foi ensinada que obediência gera bênção imediata.
+
+Mas a experiência frequentemente contradiz isso.
+
+Você ora e a situação piora. Você doa e fica sem. Você perdoa e a outra pessoa não muda. Você sai por causa de uma convicção e perde o que tinha.
+
+Como reconciliar fé e perda? Como acreditar que Deus está no controle quando a obediência produziu ausência?
+
+Esse é o problema que a sunamita de 2 Reis 8 enfrentou. E o texto revela algo que muda tudo.
 
 ### IDEIA CENTRAL
 
