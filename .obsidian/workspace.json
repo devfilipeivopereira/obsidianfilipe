@@ -10,6 +10,7 @@
           {
             "id": "f6747fb237a9546a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -17,6 +18,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "DEUS NUNCA ESQUECE QUEM OBEDECE"
             }
@@ -24,21 +26,23 @@
         ]
       },
       {
-        "id": "564df9709b1eccf9",
+        "id": "78de1e424ce6de7c",
         "type": "tabs",
         "children": [
           {
-            "id": "3d3a9c10e7d8ea46",
+            "id": "1607bb82f85dfe5d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/01_alyce_mckenzie.md",
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/02_andy_stanley.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "01_alyce_mckenzie"
+              "title": "02_andy_stanley"
             }
           }
         ]
@@ -244,8 +248,9 @@
   },
   "active": "f6747fb237a9546a",
   "lastOpenFiles": [
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/01_alyce_mckenzie.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/02_andy_stanley.md",
     "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/01_alyce_mckenzie.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita (Cópia em conflito de Filipe Pereira 2026-05-17) (Cópia em conflito de Filipe Pereira 2026-05-17).md",
     "Ministério/Sermões/Skill_Revisar/2_Reis_8_1-6_Alyce_McKenzie_Esboco.md",
@@ -270,7 +275,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/18_paul_scott_wilson.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/05_craig_groeschel.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/12_john_macarthur.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/10_integrado.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",

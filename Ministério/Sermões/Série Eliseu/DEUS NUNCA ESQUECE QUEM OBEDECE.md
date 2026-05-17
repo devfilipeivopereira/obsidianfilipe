@@ -97,3 +97,6 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
  - O medo de voltar para o que é seu e descobrir que ninguém guarda seu lugar.
  - A tentação de acreditar que a obediência foi um erro.
  - Quando Deus prepara a restituição, Ele coloca seu testemunho no ar antes de você entrar na sala.
+ - Identifique uma área em que você precisa "retornar e reclamar" algo que perdeu por obediência.
+ - Confie que Deus pode estar narrando sua história diante de quem tem poder para agir, antes mesmo de você chegar.
+ - Quando você obedece, Deus prepara sua restituição antes de você chegar._
