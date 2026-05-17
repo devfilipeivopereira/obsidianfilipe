@@ -5,9 +5,7 @@
 
 ### IDEIA CENTRAL
 
-Deus FALA ANTES das CRISES, GUARDA durante a ausência e abre caminho no retorno.
-
-
+Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORNO.
 
 ## **Advertência (v. 1):**
 
