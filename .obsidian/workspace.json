@@ -30,19 +30,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1607bb82f85dfe5d",
+            "id": "4f5eee7298bba5de",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/02_andy_stanley.md",
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/03_brian_jones.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "02_andy_stanley"
+              "title": "03_brian_jones"
             }
           }
         ]
@@ -246,7 +246,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f6747fb237a9546a",
+  "active": "4f5eee7298bba5de",
   "lastOpenFiles": [
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/02_andy_stanley.md",
     "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE.md",

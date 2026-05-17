@@ -106,3 +106,4 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
  - Confie que Deus pode estar narrando sua história diante de quem tem poder para agir, antes mesmo de você chegar.
  - Quando você obedece, Deus prepara sua restituição antes de você chegar.
  - . **Deus pode estar narrando sua história agora para quem vai agir em seu favor.** Antes de você pedir, a conversa já pode estar acontecendo.
+ - **Você não precisa orquestrar a restituição.** Ela foi ao rei. Não manipulou, não conspirou. Apenas apareceu e falou a verdade.
