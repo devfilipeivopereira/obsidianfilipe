@@ -208,9 +208,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "e4ac41f70239edec",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -230,10 +240,11 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "copilot:Open Copilot Chat": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "2cc1a28806d51ee8",
+  "active": "e4ac41f70239edec",
   "lastOpenFiles": [
     "copilot/copilot-conversations/me_explique_Nuance_hebraica_relevante_qumi,_imperativo_feminino_de_qum,@20260517_124633.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
