@@ -12,15 +12,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Sermão Sunamita"
+              "title": "Nova aba"
             }
           }
         ]
@@ -244,9 +240,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "79baf77f38a92124",
+  "active": "54acc115929ae6f0",
   "lastOpenFiles": [
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+    "Ministério/Sermões/Série Eliseu/Sermão Sunamita (Cópia em conflito de Filipe Pereira 2026-05-17).md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/001 - Quando Deus Manda Sair Antes da Fome.md",
     "copilot/copilot-conversations/me_explique_Nuance_hebraica_relevante_qumi,_imperativo_feminino_de_qum,@20260517_124633.md",
     "2026-05-16.md",
@@ -272,7 +269,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/08_fred_craddock.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/14_joyce_meyer.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/19_rick_blackwood.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/11_joel_osteen.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
