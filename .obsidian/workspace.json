@@ -42,8 +42,19 @@
               "icon": "lucide-file",
               "title": "07_eugene_lowry"
             }
+          },
+          {
+            "id": "09a4896b997648a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -244,10 +255,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f6747fb237a9546a",
+  "active": "09a4896b997648a7",
   "lastOpenFiles": [
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/07_eugene_lowry.md",
     "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/07_eugene_lowry.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/06_ed_young_jr.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/05_craig_groeschel.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/04_calvin_miller.md",
