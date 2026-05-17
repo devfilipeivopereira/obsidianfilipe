@@ -142,3 +142,6 @@ Esse é o movimento final de toda providência: o céu encontra a terra em atos 
 Deus não só te salva quando você chega. Ele prepara o ambiente antes
 
 A sua parte é aparecer e dizer o que você quer ao Rei
+- Às vezes a gente exaure tanta energia tentando "criar a oportunidade" que perde de ver que a oportunidade já foi criada. A tarefa era aparecer.
+
+- O que você perdeu por obedecer, Deus vai devolver com juros.
