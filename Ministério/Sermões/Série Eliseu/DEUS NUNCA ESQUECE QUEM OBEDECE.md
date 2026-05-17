@@ -148,3 +148,5 @@ A sua parte é aparecer e dizer o que você quer ao Rei
 - Ele age antes de você chegar. Ele prepara conversas que você não escolheu. Ele posiciona narradores onde precisam estar.
 
 O perigo da dúvida no processo: Sete anos é tempo suficiente para questionar tudo. Para se perguntar se ouviu certo. Para calcular o custo e sentir que a balança não está equilibrada.
+
+- a providência de Deus é ativa e antecipadora, não apenas reativa
