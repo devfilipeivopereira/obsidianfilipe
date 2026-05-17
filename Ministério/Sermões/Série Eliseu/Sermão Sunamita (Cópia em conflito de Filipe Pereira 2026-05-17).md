@@ -1,6 +1,11 @@
 # SUNAMITA
 
-## 
+## INTRODUÇÃO
+
+
+### IDEIA CENTRAL
+
+Deus fala antes da fome, guarda durante a ausência e abre caminho no retorno.
 
 
 
