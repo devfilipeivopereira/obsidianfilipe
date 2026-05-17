@@ -10,9 +10,9 @@
 	 - Confie nas instruções e direções dos seus líderes espirituais
 	 - Ela recebe uma revelação de Direção  → Sair do país
 	 - Ela recebe uma revelação de Tempo  → 7 anos de fome
-	 - ela recebe uma **ordem para se mover**.
-		  “Levanta-te!”
+	 - ela recebe uma **ordem para se mover**.	
 		- “Põe-te de pé!”
+		- “Levanta-te!”
 		- “Age agora!”
 		- “Sai imediatamente em resposta à palavra recebida!”
 	 - Ela recebe liberdade de escolha → "vá para onde puder"
