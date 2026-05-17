@@ -1,9 +1,26 @@
 {
   "id": "conv-1779032919609-osftghpyj",
   "providerId": "codex",
-  "title": "me explique Nuance hebraica relevante: qumi, imper...",
-  "titleGenerationStatus": "pending",
+  "title": "Explain qumi's Hebrew theological urgency",
+  "titleGenerationStatus": "success",
   "createdAt": 1779032919609,
-  "updatedAt": 1779032919614,
-  "sessionId": null
+  "updatedAt": 1779032968267,
+  "lastResponseAt": 1779032946851,
+  "sessionId": "019e36a0-175b-7641-a570-658a7f1e407e",
+  "providerState": {
+    "threadId": "019e36a0-175b-7641-a570-658a7f1e407e",
+    "sessionFilePath": "C:\\Users\\filip\\.codex\\sessions\\2026\\05\\17\\rollout-2026-05-17T12-48-42-019e36a0-175b-7641-a570-658a7f1e407e.jsonl",
+    "transcriptRootPath": "C:\\Users\\filip\\.codex\\sessions"
+  },
+  "currentNote": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/001 - Quando Deus Manda Sair Antes da Fome.md",
+  "usage": {
+    "inputTokens": 23129,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 20864,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 23129,
+    "percentage": 9,
+    "model": "gpt-5.4-mini"
+  }
 }
