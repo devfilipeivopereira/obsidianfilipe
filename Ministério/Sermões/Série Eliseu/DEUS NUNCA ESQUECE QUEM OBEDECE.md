@@ -3,13 +3,9 @@
 ## INTRODUÇÃO
 
 A maioria de nós foi ensinada que obediência gera bênção imediata.
-
 Mas a experiência frequentemente contradiz isso.
-
 Você ora e a situação piora. Você doa e fica sem. Você perdoa e a outra pessoa não muda. Você sai por causa de uma convicção e perde o que tinha.
-
 Como reconciliar fé e perda? Como acreditar que Deus está no controle quando a obediência produziu ausência?
-
 Esse é o problema que a sunamita de 2 Reis 8 enfrentou. E o texto revela algo que muda tudo.
 
 ### IDEIA CENTRAL
@@ -108,4 +104,5 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
  - Quando Deus prepara a restituição, Ele coloca seu testemunho no ar antes de você entrar na sala.
  - Identifique uma área em que você precisa "retornar e reclamar" algo que perdeu por obediência.
  - Confie que Deus pode estar narrando sua história diante de quem tem poder para agir, antes mesmo de você chegar.
- - Quando você obedece, Deus prepara sua restituição antes de você chegar._
+ - Quando você obedece, Deus prepara sua restituição antes de você chegar.
+ - . **Deus pode estar narrando sua história agora para quem vai agir em seu favor.** Antes de você pedir, a conversa já pode estar acontecendo.
