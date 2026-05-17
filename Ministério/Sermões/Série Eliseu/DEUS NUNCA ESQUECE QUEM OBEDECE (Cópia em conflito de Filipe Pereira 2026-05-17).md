@@ -150,3 +150,5 @@ A sua parte é aparecer e dizer o que você quer ao Rei
 O perigo da dúvida no processo: Sete anos é tempo suficiente para questionar tudo. Para se perguntar se ouviu certo. Para calcular o custo e sentir que a balança não está equilibrada.
 
 - a providência de Deus é ativa e antecipadora, não apenas reativa
+- A providência de Deus inclui a preparação prévia de ouvidos e corações.
+- A fé que age é a que aparece e apresenta o caso.
