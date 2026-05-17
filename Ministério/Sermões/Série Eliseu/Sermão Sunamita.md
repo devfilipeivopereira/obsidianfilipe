@@ -90,4 +90,4 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
 
 
 
-
+ - Reconheça as portas que Deus abre enquanto você apenas tenta ser fiel.

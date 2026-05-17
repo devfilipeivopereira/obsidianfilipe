@@ -24,13 +24,12 @@
         ]
       },
       {
-        "id": "d9fbc0d3ef25a77f",
+        "id": "fde2b2324de51d35",
         "type": "tabs",
         "children": [
           {
-            "id": "79baf77f38a92124",
+            "id": "f6747fb237a9546a",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -38,7 +37,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "001 - Quando Deus Manda Sair Antes da Fome"
             }
@@ -244,7 +242,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "79baf77f38a92124",
+  "active": "f6747fb237a9546a",
   "lastOpenFiles": [
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/001 - Quando Deus Manda Sair Antes da Fome.md",
