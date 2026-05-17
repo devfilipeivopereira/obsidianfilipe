@@ -134,4 +134,6 @@ A palavra de Deus não ficou apenas em promessa. Tornou-se papel. Tornou-se orde
 
 Esse é o movimento final de toda providência: o céu encontra a terra em atos humanos.
 
-Quando você precisar entrar em alguma sala difícil, saiba: Ele pode já estar contando sua história lá dentro.
+- Quando você precisar entrar em alguma sala difícil, saiba: Ele pode já estar contando sua história lá dentro.
+- Quando você obedece a Deus, Ele trabalha nos bastidores antes de você precisar pedir.
+- Obedecer a Deus frequentemente custa antes de compensar.
