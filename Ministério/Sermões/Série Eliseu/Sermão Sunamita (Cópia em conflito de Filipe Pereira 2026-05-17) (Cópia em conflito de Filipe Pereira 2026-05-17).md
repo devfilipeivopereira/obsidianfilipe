@@ -5,7 +5,7 @@
 
 ### IDEIA CENTRAL
 
-Deus fala antes da fome, guarda durante a ausência e abre caminho no retorno.
+Deus fala antes da CRISE, guarda durante a ausência e abre caminho no retorno.
 
 
 
