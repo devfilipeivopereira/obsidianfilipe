@@ -50,7 +50,7 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
 - **Não teve medo de ir para uma terra estranha e desconfortável**
 	- Estar entre os filisteus não era o mais agradável mas foi o possível
 	- Priorize a vida acima da aparência de estabilidade que você teme perder.
-	- Quem parte fica com 
+	- Quem parte fica com um medo íntimo de não pertencer mais
 	
 ## **Atitudes Dela após a mudança (v. 3):**
 

@@ -203,7 +203,7 @@ Gerado em: 16/05/2026, 10:12:10
 - [[Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/16_louie_giglio|16_louie_giglio]]
 - [[Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/17_michael_todd|17_michael_todd]]
 - [[Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas|Síntese dos Esboços Numerados - Pontos Principais e Ações Praticas]]
-- [[Ministério/Sermões/Série Eliseu/Sermão Sunamita|Sermão Sunamita]]
+- [[DEUS NUNCA ESQUECE QUEM OBEDECE|DEUS NUNCA ESQUECE QUEM OBEDECE]]
 
 ## Pontos e Princípios
 
@@ -4086,7 +4086,7 @@ Gerado em: 16/05/2026, 10:12:10
 155. **Literal:** 153 - Deus no Controle: Como a Soberania Divina Orquestra a Restituição
    **Resumo/síntese:** Síntese: este princípio ajuda a discernir a ação de Deus nos tempos, encontros e meios aparentemente comuns; buscar restauração e justiça com verdade, mansidão e esperança ativa.
 
-### [[Ministério/Sermões/Série Eliseu/Sermão Sunamita|Sermão Sunamita]]
+### [[DEUS NUNCA ESQUECE QUEM OBEDECE|DEUS NUNCA ESQUECE QUEM OBEDECE]]
 
 **Título interno:** SUNAMITA
 
@@ -8365,7 +8365,7 @@ Gerado em: 16/05/2026, 10:12:10
 36. **Literal:** Celebre a provisão contínua de Deus em sua vida, compartilhando seu testemunho.
    **Síntese/objetivo:** Objetivo prático: preservar e narrar a memória das obras de Deus como combustível para a fé.
 
-### [[Ministério/Sermões/Série Eliseu/Sermão Sunamita|Sermão Sunamita]]
+### [[DEUS NUNCA ESQUECE QUEM OBEDECE|DEUS NUNCA ESQUECE QUEM OBEDECE]]
 
 **Título interno:** SUNAMITA
 
@@ -14632,7 +14632,7 @@ Gerado em: 16/05/2026, 10:12:10
 14. **Trecho:** 010 - Entre A Palavra E A Sentença
    **Uso homilético:** Pode funcionar como formulação memorável para reforçar o tema, abrir uma transição ou fechar uma aplicação pastoral.
 
-### [[Ministério/Sermões/Série Eliseu/Sermão Sunamita|Sermão Sunamita]]
+### [[DEUS NUNCA ESQUECE QUEM OBEDECE|DEUS NUNCA ESQUECE QUEM OBEDECE]]
 
 **Título interno:** SUNAMITA
 
