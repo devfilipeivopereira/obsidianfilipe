@@ -26,21 +26,21 @@
         ]
       },
       {
-        "id": "3fd55601eaa71433",
+        "id": "d9fbc0d3ef25a77f",
         "type": "tabs",
         "children": [
           {
-            "id": "91ccd3eb483eb033",
+            "id": "79baf77f38a92124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/001 - Quando Deus Manda Sair Antes da Fome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ações Práticas por Categoria - Série Eliseu"
+              "title": "001 - Quando Deus Manda Sair Antes da Fome"
             }
           }
         ]
@@ -195,8 +195,8 @@
               "state": {
                 "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md"
               },
-              "icon": "lucide-file-signature",
-              "title": "Notas de rodapé"
+              "icon": "lucide-ghost",
+              "title": "footnotes"
             }
           },
           {
@@ -214,12 +214,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -227,17 +225,23 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
+      "remotely-secure:Remotely Sync": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "markdown-importer:Abrir importador Markdown": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "54acc115929ae6f0",
+  "active": "2cc1a28806d51ee8",
   "lastOpenFiles": [
-    "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
+    "copilot/copilot-conversations/me_explique_Nuance_hebraica_relevante_qumi,_imperativo_feminino_de_qum,@20260517_124633.md",
     "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+    "2026-05-16.md",
+    "Teste ipad.md",
+    "TaskForge.md",
+    "Sem título",
+    "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/26_serie_alto_impacto.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/25_bob_smiley.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/24_timothy_keller.md",
@@ -258,10 +262,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/19_rick_blackwood.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/11_joel_osteen.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/23_td_jakes.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/04_calvin_miller.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/13_john_stott.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/06_ed_young_jr.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8/02_andy_stanley.md",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
@@ -271,7 +271,6 @@
     "Ministério/Sermões/Nova pasta",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Nova pasta",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/How to Interpret Uploaded Text File Content.zip",
     "Sem título.canvas"
   ]
 }

@@ -1,15 +1,16 @@
 [
-  "editing-toolbar",
-  "templater-obsidian",
-  "dataview",
-  "omnisearch",
-  "folder-notes",
-  "obsidian-hover-editor",
-  "obsidian-linter",
-  "obsidian-custom-frames",
-  "obsidian-icon-folder",
-  "obsidian-local-rest-api",
-  "github-sync",
+  "remotely-secure",
   "obsidian-excalidraw-plugin",
-  "copilot"
+  "dataview",
+  "templater-obsidian",
+  "obsidian-icon-folder",
+  "editing-toolbar",
+  "omnisearch",
+  "copilot",
+  "obsidian-linter",
+  "obsidian-hover-editor",
+  "obsidian-local-rest-api",
+  "folder-notes",
+  "obsidian-custom-frames",
+  "github-sync"
 ]
