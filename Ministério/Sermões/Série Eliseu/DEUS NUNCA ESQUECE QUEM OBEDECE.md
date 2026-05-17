@@ -96,3 +96,4 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
  - Sete anos longe ensinam uma coisa: você pode obedecer e ainda assim perder.
  - O medo de voltar para o que é seu e descobrir que ninguém guarda seu lugar.
  - A tentação de acreditar que a obediência foi um erro.
+ - Quando Deus prepara a restituição, Ele coloca seu testemunho no ar antes de você entrar na sala.
