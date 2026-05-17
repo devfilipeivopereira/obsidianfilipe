@@ -145,3 +145,4 @@ A sua parte é aparecer e dizer o que você quer ao Rei
 - Às vezes a gente exaure tanta energia tentando "criar a oportunidade" que perde de ver que a oportunidade já foi criada. A tarefa era aparecer.
 
 - O que você perdeu por obedecer, Deus vai devolver com juros.
+- Ele age antes de você chegar. Ele prepara conversas que você não escolheu. Ele posiciona narradores onde precisam estar.
