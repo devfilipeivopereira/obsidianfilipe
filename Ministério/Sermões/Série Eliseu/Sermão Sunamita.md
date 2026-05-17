@@ -25,6 +25,8 @@
 - **Confiou na palavra do Profeta**
 	 - Mesmo sem ver indícios da fome acreditou que aquilo que Elizeu falou aconteceria
 	 - Ela acreditou antes de ter explicações
+	 - A fé verdadeira não fica paralisada esperando todos os detalhes; ela se levanta quando Deus fala.
+	 - O texto ensina que obediência preventiva à palavra de Deus deve produzir obediência sóbria, esperança ativa e confiança nos meios de Deus.
 	 - Ela não se apegou aos bens que tinha como impedimento para obedecer a orientação de Deus
 	 - Ela tinha poder de escolha
 	 - Ela sabia que a obediência preventiva é um caminho para a proteção divina.
