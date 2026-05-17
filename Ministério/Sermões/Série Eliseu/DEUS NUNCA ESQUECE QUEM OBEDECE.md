@@ -100,7 +100,15 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
 
 
 
+"E ela entrou." — v.5
 
+Três palavras. Mas o texto sagrado as posicionou com precisão cirúrgica.
+
+Enquanto Geazi falava, ela entrou.
+
+A simultaneidade é o coração do texto. Não é que Deus a ajudou depois. É que Deus coordenou o antes.
+
+O logo retorna com mais peso: _"Deus é o narrador que chega antes de você."
 
  - Reconheça as portas que Deus abre enquanto você apenas tenta ser fiel.
  - Quando ela chega para pedir; dentro da sala, sua história já está sendo contada.
