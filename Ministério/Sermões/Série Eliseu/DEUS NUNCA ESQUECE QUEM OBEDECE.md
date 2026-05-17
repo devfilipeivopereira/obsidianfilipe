@@ -71,6 +71,10 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
 	- Ela volta para sua terra, para seu povo após os 7 anos
 	- Ela não se habitua ao novo território passageiro, na primeira oportunidade segura volta
 	- Fica apenas o tempo necessário entre os filisteus, não abre espaço para decisões duvidosas
+	- Voltar é mais difícil do que partir.
+	- Partir é dramático. Tem despedida, adrenalina, ruptura.
+	- Voltar é humilde. Tem o peso do que ficou. A incerteza do que encontrará.
+	- A sunamita volta sem saber se será reconhecida. 
 - Ela não se abalou com a perda da sua casa e propriedades
 	- Não murmurou
 	- Não se desesperou
