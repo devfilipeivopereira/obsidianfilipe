@@ -110,3 +110,4 @@ Deus FALA ANTES das CRISES, GUARDA DURANTE os PROCESSO e ABRE CAMINHOS no RETORN
  - **Verdade 1: Obediência real SEMPRE custa algo real.**
  - **Verdade 2: Reclamar o que é seu não é falta de fé — é fé em ação.**
  - **Verdade 3: Às vezes o ambiente é preparado antes de você chegar.**
+ - _"Deus é o narrador que chega antes de você."_
