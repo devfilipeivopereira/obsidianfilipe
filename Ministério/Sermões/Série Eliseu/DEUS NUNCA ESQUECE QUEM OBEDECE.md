@@ -125,3 +125,13 @@ O logo retorna com mais peso: _"Deus é o narrador que chega antes de você."
  - **Verdade 2: Reclamar o que é seu não é falta de fé — é fé em ação.**
  - **Verdade 3: Às vezes o ambiente é preparado antes de você chegar.**
  - _"Deus é o narrador que chega antes de você."_
+
+O Papel do Oficial
+
+O rei ordena. Um oficial é designado. A terra é restaurada. Os frutos dos sete anos de ausência são contabilizados.
+
+A palavra de Deus não ficou apenas em promessa. Tornou-se papel. Tornou-se ordem executiva. Tornou-se ação concreta de um ser humano obedecendo a um poder superior.
+
+Esse é o movimento final de toda providência: o céu encontra a terra em atos humanos.
+
+Quando você precisar entrar em alguma sala difícil, saiba: Ele pode já estar contando sua história lá dentro.
