@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "34564660ba8192e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "78de1e424ce6de7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02b01ae0c512253b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE (Cópia em conflito de Filipe Pereira 2026-05-17).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DEUS NUNCA ESQUECE QUEM OBEDECE (Cópia em conflito de Filipe Pereira 2026-05-17)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "821cf5af74bb9b96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6544da0221ffaf4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/17_michael_todd.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17_michael_todd"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "497466c1220f47ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be26673800cd00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29578b91d9aad0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "079f117b634cc0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "71007f597614a8e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "6fc72ce5bb285566",
+    "type": "split",
+    "children": [
+      {
+        "id": "711943c12d5d208e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4195791d1ba5853",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sermão Sunamita"
+            }
+          },
+          {
+            "id": "3c819f49d3de25db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "1002362dd8acb7d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3e410d2486312243",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "45712aeadaf3d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sermão Sunamita"
+            }
+          },
+          {
+            "id": "06ea41f8c0ccead9",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "footnotes"
+            }
+          },
+          {
+            "id": "2cc1a28806d51ee8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "e4ac41f70239edec",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "remotely-secure:Remotely Sync": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "f6544da0221ffaf4",
+  "lastOpenFiles": [
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/16_louie_giglio.md",
+    "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE (Cópia em conflito de Filipe Pereira 2026-05-17).md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/15_lane_sebring.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/14_joyce_meyer.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/13_john_stott.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/12_john_macarthur.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/11_joel_osteen.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/10_integrado.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/09_haddon_robinson.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/01_alyce_mckenzie.md",
+    "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/08_fred_craddock.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/07_eugene_lowry.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/06_ed_young_jr.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/05_craig_groeschel.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/04_calvin_miller.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/03_brian_jones.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/02_andy_stanley.md",
+    "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+    "Ministério/Sermões/Série Eliseu/Sermão Sunamita (Cópia em conflito de Filipe Pereira 2026-05-17) (Cópia em conflito de Filipe Pereira 2026-05-17).md",
+    "Ministério/Sermões/Skill_Revisar/2_Reis_8_1-6_Alyce_McKenzie_Esboco.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/001 - Quando Deus Manda Sair Antes da Fome.md",
+    "copilot/copilot-conversations/me_explique_Nuance_hebraica_relevante_qumi,_imperativo_feminino_de_qum,@20260517_124633.md",
+    "2026-05-16.md",
+    "Teste ipad.md",
+    "TaskForge.md",
+    "Sem título",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Ministério/Sermões/Skill_Revisar",
+    "Ministério/Sermões/Skill_Revisão",
+    "Ministério/Sermões/Nova pasta",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Nova pasta",
+    "Sem título.canvas"
+  ]
+}

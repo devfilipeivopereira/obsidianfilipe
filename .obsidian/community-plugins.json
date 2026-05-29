@@ -1,10 +1,11 @@
 [
   "remotely-secure",
-  "obsidian-excalidraw-plugin",
-  "dataview",
-  "templater-obsidian",
-  "obsidian-icon-folder",
+  "realclaudian",
   "editing-toolbar",
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "dataview",
+  "obsidian-icon-folder",
   "omnisearch",
   "copilot",
   "obsidian-linter",
@@ -12,5 +13,5 @@
   "obsidian-local-rest-api",
   "folder-notes",
   "obsidian-custom-frames",
-  "realclaudian"
+  "github-sync"
 ]

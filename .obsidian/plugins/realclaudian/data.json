@@ -2,8 +2,9 @@
   "tabManagerState": {
     "openTabs": [
       {
+        "draftModel": "gpt-5.4-mini",
         "tabId": "tab-1779032861994-dc8l9zt",
-        "conversationId": "conv-1779032919609-osftghpyj"
+        "conversationId": null
       }
     ],
     "activeTabId": "tab-1779032861994-dc8l9zt"

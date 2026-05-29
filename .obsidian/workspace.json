@@ -4,43 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fde2b2324de51d35",
+        "id": "28e9ddd3017884d5",
         "type": "tabs",
         "children": [
           {
-            "id": "f6747fb237a9546a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/01_alyce_mckenzie.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "01_alyce_mckenzie"
-            }
-          }
-        ]
-      },
-      {
-        "id": "78de1e424ce6de7c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "02b01ae0c512253b",
+            "id": "aed44ee736cb378a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE (Cópia em conflito de Filipe Pereira 2026-05-17).md",
+                "file": "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/001-os-olhos-que-nao-enxergam.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DEUS NUNCA ESQUECE QUEM OBEDECE (Cópia em conflito de Filipe Pereira 2026-05-17)"
+              "title": "001-os-olhos-que-nao-enxergam"
             }
           }
         ]
@@ -205,8 +183,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
@@ -236,52 +214,51 @@
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
       "remotely-secure:Remotely Sync": false,
+      "realclaudian:Open Claudian": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false,
-      "github-sync:Sync with Remote": false,
-      "realclaudian:Open Claudian": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "02b01ae0c512253b",
+  "active": "aed44ee736cb378a",
   "lastOpenFiles": [
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/01_alyce_mckenzie.md",
-    "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE.md",
-    "Ministério/Sermões/Série Eliseu/DEUS NUNCA ESQUECE QUEM OBEDECE (Cópia em conflito de Filipe Pereira 2026-05-17).md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/09_haddon_robinson.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/08_fred_craddock.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/07_eugene_lowry.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/06_ed_young_jr.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/05_craig_groeschel.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/04_calvin_miller.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/03_brian_jones.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/02_andy_stanley.md",
-    "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
-    "Ministério/Sermões/Série Eliseu/Sermão Sunamita (Cópia em conflito de Filipe Pereira 2026-05-17) (Cópia em conflito de Filipe Pereira 2026-05-17).md",
-    "Ministério/Sermões/Skill_Revisar/2_Reis_8_1-6_Alyce_McKenzie_Esboco.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/001 - Quando Deus Manda Sair Antes da Fome.md",
-    "copilot/copilot-conversations/me_explique_Nuance_hebraica_relevante_qumi,_imperativo_feminino_de_qum,@20260517_124633.md",
-    "2026-05-16.md",
-    "Teste ipad.md",
-    "TaskForge.md",
-    "Sem título",
-    "Ministério/Sermões/Série Eliseu/Ações Práticas por Categoria - Série Eliseu.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/26_serie_alto_impacto.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/25_bob_smiley.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/24_timothy_keller.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/23_td_jakes.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/22_sticky_sermons.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/21_steven_furtick.md",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Pregadores_Skill/esbocos_2reis8",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
+    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Ações Práticas por Categoria - Série Eliseu.md",
+    "Ministério/Sermões/100 Esboços Batalha Espiritual/100-a-vitoria-que-vence-o-mundo.md",
     "Ministério/Sermões/Skill_Revisar",
-    "Ministério/Sermões/Skill_Revisão",
-    "Ministério/Sermões/Nova pasta",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Exegese",
-    "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Nova pasta",
+    "Ministério/Sermões/100 Esboços Batalha Espiritual",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__craig-groeschel.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__calvin-miller.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__brian-jones.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__brene-brown.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__andy-stanley.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__alyce-mckenzie.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__adam-grant.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__tony-robbins.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__timothy-keller.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__td-jakes.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__sticky-sermons.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__steven-furtick.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__steve-jobs.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__simon-sinek.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__robin-sharma.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__rick-warren.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__rick-blackwood.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__paul-scott-wilson.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__michael-todd.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__mel-robbins.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__louie-giglio.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__les-brown.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__lane-sebring.md",
+    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__joyce-meyer.md",
+    "Ministério/Sermões/sermoes-batalha-espiritual",
+    "Ministério/Sermões/batalha-espiritual/100 Esboços Batalha Espiritual.rar",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 351577.crdownload",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 12085.crdownload",
+    "Ministério/Sermões/100 Esboços Batalha Espiritual/100 Esboços Batalha Espiritual.rar",
+    "Ministério/Sermões/manifest.json",
+    "Ministério/Sermões/manifest (3).json",
     "Sem título.canvas"
   ]
 }

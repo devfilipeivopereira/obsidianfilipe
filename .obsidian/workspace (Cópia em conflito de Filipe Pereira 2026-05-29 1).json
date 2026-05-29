@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "34564660ba8192e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "28e9ddd3017884d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aed44ee736cb378a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "497466c1220f47ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be26673800cd00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d29578b91d9aad0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "079f117b634cc0d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "71007f597614a8e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 365.5
+  },
+  "right": {
+    "id": "6fc72ce5bb285566",
+    "type": "split",
+    "children": [
+      {
+        "id": "711943c12d5d208e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4195791d1ba5853",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Sermão Sunamita"
+            }
+          },
+          {
+            "id": "3c819f49d3de25db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bem-vindo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Bem-vindo"
+            }
+          },
+          {
+            "id": "1002362dd8acb7d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "3e410d2486312243",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "45712aeadaf3d9ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Sermão Sunamita"
+            }
+          },
+          {
+            "id": "06ea41f8c0ccead9",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "Ministério/Sermões/Série Eliseu/Sermão Sunamita.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "footnotes"
+            }
+          },
+          {
+            "id": "2cc1a28806d51ee8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
+            }
+          },
+          {
+            "id": "e4ac41f70239edec",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "remotely-secure:Remotely Sync": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "aed44ee736cb378a",
+  "lastOpenFiles": [
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Olhos Abertos, Coração Cheio.md",
+    "A Batalha Invisível Vendo o que os Olhos Não Veem.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Mantenha_no_Contexto_Pastor_Steven_Furtick.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/087-vitoria-sem-glorificacao.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/078-oracao-abre-dimensoes.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/097-quando-deus-diz-basta.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/041-a-autoridade-de-quem-esta-coberto.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/013-quando-deus-fecha-olhos.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/035-estrategia-do-pao.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/014-a-pergunta-revela-o-coracao.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/006-a-cegueira-como-misericordia.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/073-fe-protege-mais-que-muralhas.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/025-lealdade-que-corrige.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/011-graca-extravagante.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/086-exercito-posicionado-antes.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/010-o-monte-cheio.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/096-bencao-atravessa-fronteiras.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/084-habito-de-avisar.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/047-revelacao-no-momento-certo.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/028-o-rei-precisava-do-profeta.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/053-armadilha-da-propria-estrategia.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/058-gratidao-por-ser-alvo.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/019-a-misericordia-estrategica.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/074-intimidade-como-vantagem.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/052-duas-oracoes-mesmo-verbo.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/051-a-paz-que-passa-entendimento.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 351577.crdownload",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 12085.crdownload",
+    "Ministério/Sermões/100 Esboços Batalha Espiritual/100 Esboços Batalha Espiritual.rar",
+    "Ministério/Sermões/manifest.json",
+    "Ministério/Sermões/manifest (3).json",
+    "Ministério/Sermões/manifest (2).json",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/~$rmao_batalha_espiritual - 2 Reis 6.8-23.txt",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/sermao_batalha_espiritual - 2 Reis 6.8-23.txt",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/~WRD0003.tmp",
+    "Sem título.canvas"
+  ]
+}

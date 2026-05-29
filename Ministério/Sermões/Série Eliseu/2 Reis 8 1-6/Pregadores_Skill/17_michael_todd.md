@@ -95,7 +95,7 @@ O narrador sagrado usa *hinneh* — "eis que" — para marcar exatamente esse ti
 
 ### PONTO 3 | Postura que Prevalece
 
-**Título completo:** Postura que Prevalece é aparecer e dizer a verdade.
+**Título completo:** Postura que Prevalece é aparecer e declarar o que quer.
 
 **Texto:** 2 Reis 8:5-6 — "Ela entrou... o rei perguntou... ela contou."
 
