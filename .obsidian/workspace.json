@@ -218,11 +218,14 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "aed44ee736cb378a",
   "lastOpenFiles": [
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/2 Reis 6.8-23.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 522541.crdownload",
     "Ministério/Sermões/Série Eliseu/2 Reis 8 1-6/Ações Práticas por Categoria - Série Eliseu.md",
     "Ministério/Sermões/100 Esboços Batalha Espiritual/100-a-vitoria-que-vence-o-mundo.md",
     "Ministério/Sermões/Skill_Revisar",
@@ -250,7 +253,6 @@
     "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__louie-giglio.md",
     "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__les-brown.md",
     "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__lane-sebring.md",
-    "Ministério/Sermões/batalha-espiritual/o-diabo-veste-prada__joyce-meyer.md",
     "Ministério/Sermões/sermoes-batalha-espiritual",
     "Ministério/Sermões/batalha-espiritual/100 Esboços Batalha Espiritual.rar",
     "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis",
@@ -258,7 +260,6 @@
     "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 12085.crdownload",
     "Ministério/Sermões/100 Esboços Batalha Espiritual/100 Esboços Batalha Espiritual.rar",
     "Ministério/Sermões/manifest.json",
-    "Ministério/Sermões/manifest (3).json",
     "Sem título.canvas"
   ]
 }
