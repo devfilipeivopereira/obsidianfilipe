@@ -36,12 +36,12 @@ language: "Portugues do Brasil"
 
 **Texto-chave do ponto:** 2 Rs 6.16
 
-**Explicação profunda (contexto, original e versículo destrinchado):** al-tira ki rabbim asher ittanu me-asher otam — não temas, pois mais são os que estão conosco. Eliseu usa rabbim (multidão, abundância). Ele afirma uma realidade que não está sendo disputada — já é fato. <mark style="background:#fdbfff"<mark style="background:#fdbfff">></mark>A percepção espiritual não é fantasia: é acesso a uma camada mais real da realidade.</mark>
+**Explicação profunda (contexto, original e versículo destrinchado):** al-tira ki rabbim asher ittanu me-asher otam — não temas, pois mais são os que estão conosco. Eliseu usa rabbim (multidão, abundância). Ele afirma uma realidade que não está sendo disputada — já é fato. ====
 
 **Aplicações práticas:**
-   1. Treine a fé para enxergar o invisível antes de reagir ao visível.
-   2. Declare a superioridade do exército de Deus sobre qualquer ameaça.
-   3. Não deixe que a contagem do inimigo apague a contagem de Deus.
+   ==<mark style="background:#fdbfff">1. Treine a fé para enxergar o invisível antes de reagir ao visível.</mark>==
+   1. Declare a superioridade do exército de Deus sobre qualquer ameaça.
+   2. Não deixe que a contagem do inimigo apague a contagem de Deus.
 
 **Ilustrações / alegorias:**
    - O astrônomo vê estrelas que o olho nu nunca alcançará sem o telescópio.
