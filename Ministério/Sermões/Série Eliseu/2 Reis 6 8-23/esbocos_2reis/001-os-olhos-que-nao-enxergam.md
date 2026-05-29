@@ -19,16 +19,16 @@ language: "Portugues do Brasil"
 
 **Texto-chave do ponto:** 2 Rs 6.15
 
-**Explicação profunda (contexto, original e versículo destrinchado):** wayashkem mesharet ish-ha-Elohim bashshalem weyetse — o servo se levantou cedo e saiu. wayyar (e viu): verbo de percepção sensorial pura. Ele usou apenas os olhos do corpo e concluiu: estamos perdidos. A decisão baseada apenas nos sentidos físicos sempre chega à conclusão errada quando o sobrenatural está envolvido.
+**Explicação profunda (contexto, original e versículo destrinchado):** wayashkem mesharet ish-ha-Elohim bashshalem weyetse — o servo se levantou cedo e saiu. wayyar (e viu): verbo de percepção sensorial pura. Ele usou apenas os olhos do corpo e concluiu: estamos perdidos. ==A decisão baseada apenas nos sentidos físicos sempre chega à conclusão errada quando o sobrenatural está envolvido.==
 
 **Aplicações práticas:**
-   1. Não tome decisões críticas baseado apenas no que os sentidos físicos dizem.
-   2. Reconheça que o pânico nasce de uma visão incompleta da realidade.
-   3. Antes de concluir que está cercado, pergunte se está vendo tudo.
+   1. ==Não tome decisões críticas baseado apenas no que os sentidos físicos dizem.==
+   2. ==Reconheça que o pânico nasce de uma visão incompleta da realidade.==
+   3. ==Antes de concluir que está cercado, pergunte se está vendo tudo.==
 
 **Ilustrações / alegorias:**
-   - O raio-X revela o que o olho nu nunca veria na fratura óssea.
-   - O sonar do submarino mapeia um mundo que a superfície desconhece.
+   - ==O raio-X== revela o que o olho nu nunca veria na fratura óssea.
+   - ==O sonar do submarino== mapeia um mundo que a superfície desconhece.
 
 **Item físico de palco:** Um par de óculos comum ao lado de um com lentes extras — a visão ampliada.
 
