@@ -200,16 +200,6 @@
             }
           },
           {
-            "id": "2cc1a28806d51ee8",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "copilot-chat-view"
-            }
-          },
-          {
             "id": "e4ac41f70239edec",
             "type": "leaf",
             "state": {
@@ -220,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
