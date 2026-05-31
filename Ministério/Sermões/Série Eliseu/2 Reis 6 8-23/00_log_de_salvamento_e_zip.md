@@ -1,0 +1,28 @@
+# Log de salvamento e atualização do ZIP
+- Início local do lote: 2026-05-31T15:00:20
+- Observação: o ambiente atual não expôs as funções do conector `save_generated_markdown`, `rebuild_zip` ou `finalize_batch`. Este log registra a criação local equivalente: salvar Markdown e reconstruir ZIP parcial após cada arquivo.
+- 2026-05-31T15:00:20 — salvo `01_alyce-mckenzie_2reis6_8-23.md`; ZIP parcial reconstruído com 1 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `02_andy-stanley_2reis6_8-23.md`; ZIP parcial reconstruído com 2 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `03_brian-jones_2reis6_8-23.md`; ZIP parcial reconstruído com 3 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `04_calvin-miller_2reis6_8-23.md`; ZIP parcial reconstruído com 4 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `05_craig-groeschel_2reis6_8-23.md`; ZIP parcial reconstruído com 5 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `06_ed-young-jr_2reis6_8-23.md`; ZIP parcial reconstruído com 6 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `07_eugene-lowry_2reis6_8-23.md`; ZIP parcial reconstruído com 7 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `08_fred-craddock_2reis6_8-23.md`; ZIP parcial reconstruído com 8 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `09_haddon-robinson_2reis6_8-23.md`; ZIP parcial reconstruído com 9 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `10_integrated_2reis6_8-23.md`; ZIP parcial reconstruído com 10 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `11_joel-osteen_2reis6_8-23.md`; ZIP parcial reconstruído com 11 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `12_john-macarthur_2reis6_8-23.md`; ZIP parcial reconstruído com 12 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `13_john-stott_2reis6_8-23.md`; ZIP parcial reconstruído com 13 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `14_joyce-meyer_2reis6_8-23.md`; ZIP parcial reconstruído com 14 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `15_lane-sebring_2reis6_8-23.md`; ZIP parcial reconstruído com 15 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `16_louie-giglio_2reis6_8-23.md`; ZIP parcial reconstruído com 16 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `17_michael-todd_2reis6_8-23.md`; ZIP parcial reconstruído com 17 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `18_paul-scott-wilson_2reis6_8-23.md`; ZIP parcial reconstruído com 18 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `19_rick-blackwood_2reis6_8-23.md`; ZIP parcial reconstruído com 19 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `20_rick-warren_2reis6_8-23.md`; ZIP parcial reconstruído com 20 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `21_steven-furtick_2reis6_8-23.md`; ZIP parcial reconstruído com 21 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `22_sticky_2reis6_8-23.md`; ZIP parcial reconstruído com 22 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `23_t-d-jakes_2reis6_8-23.md`; ZIP parcial reconstruído com 23 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — salvo `24_timothy-keller_2reis6_8-23.md`; ZIP parcial reconstruído com 24 arquivo(s) de sermão.
+- 2026-05-31T15:00:20 — lote finalizado localmente com 24 sermões.
