@@ -4,6 +4,23 @@
   "title": "no contexto de 2 rs 6:8-23 sobre o enfoque do que ...",
   "titleGenerationStatus": "failed",
   "createdAt": 1780246350991,
-  "updatedAt": 1780246371554,
-  "sessionId": null
+  "updatedAt": 1780246396309,
+  "lastResponseAt": 1780246396309,
+  "sessionId": "019e7ef3-8fa2-7472-858d-ac9b0076c55c",
+  "providerState": {
+    "threadId": "019e7ef3-8fa2-7472-858d-ac9b0076c55c",
+    "sessionFilePath": "C:\\Users\\filip\\.codex\\sessions\\2026\\05\\31\\rollout-2026-05-31T13-52-36-019e7ef3-8fa2-7472-858d-ac9b0076c55c.jsonl",
+    "transcriptRootPath": "C:\\Users\\filip\\.codex\\sessions"
+  },
+  "currentNote": "SERMÃO 2 REIS 6.8-23.md",
+  "usage": {
+    "inputTokens": 22191,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 21888,
+    "contextWindow": 258400,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 22191,
+    "percentage": 9,
+    "model": "gpt-5.4-mini"
+  }
 }
