@@ -1,0 +1,259 @@
+{
+  "job_id": "sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68",
+  "title": "Sermões completos 4000 palavras — 2 Reis 6:8-23",
+  "slug": "sermoes-completos-4000-palavras-2-reis-6-8-23",
+  "source": "2 Reis 6:8-23",
+  "scope": "completa",
+  "language": "Português do Brasil",
+  "audience": "igreja evangélica adulta",
+  "selected_style_ids": [
+    "generate-alyce-mckenzie-sermons",
+    "generate-andy-stanley-sermons",
+    "generate-brian-jones-sermons",
+    "generate-calvin-miller-sermons",
+    "generate-craig-groeschel-sermons",
+    "generate-ed-young-jr-sermons",
+    "generate-eugene-lowry-sermons",
+    "generate-fred-craddock-sermons",
+    "generate-haddon-robinson-sermons",
+    "generate-integrated-sermons",
+    "generate-joel-osteen-sermons",
+    "generate-john-macarthur-sermons",
+    "generate-john-stott-sermons",
+    "generate-joyce-meyer-sermons",
+    "generate-lane-sebring-sermons",
+    "generate-louie-giglio-sermons",
+    "generate-michael-todd-sermons",
+    "generate-paul-scott-wilson-sermons",
+    "generate-rick-blackwood-sermons",
+    "generate-rick-warren-sermons",
+    "generate-steven-furtick-sermons",
+    "generate-sticky-sermons",
+    "generate-td-jakes-sermons",
+    "generate-timothy-keller-sermons"
+  ],
+  "status": "finalized",
+  "created_at": "2026-05-30T17:16:48.883Z",
+  "updated_at": "2026-05-30T17:41:28.883Z",
+  "files": [
+    {
+      "style_id": "generate-alyce-mckenzie-sermons",
+      "style_name": "Alyce Mckenzie",
+      "filename": "01_alyce_mckenzie_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/01_alyce_mckenzie_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 15270,
+      "sha256": "c2a47b0122545f48d69c9cd4371c81f5fca43a04ff9eb6d2af1f41df2b89294d",
+      "saved_at": "2026-05-30T17:18:40.592Z"
+    },
+    {
+      "style_id": "generate-andy-stanley-sermons",
+      "style_name": "Andy Stanley",
+      "filename": "02_andy_stanley_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/02_andy_stanley_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 12005,
+      "sha256": "d9fe402aad7cb9a9d52f896d4354d315bef60c04b47ba1a7265be690fbae27e1",
+      "saved_at": "2026-05-30T17:20:01.773Z"
+    },
+    {
+      "style_id": "generate-brian-jones-sermons",
+      "style_name": "Brian Jones",
+      "filename": "03_brian_jones_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/03_brian_jones_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 10171,
+      "sha256": "082849c15370fb4a86371d58340734eda8a490c698de02bd7b4381069eac702d",
+      "saved_at": "2026-05-30T17:21:59.439Z"
+    },
+    {
+      "style_id": "generate-calvin-miller-sermons",
+      "style_name": "Calvin Miller",
+      "filename": "04_calvin_miller_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/04_calvin_miller_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 10501,
+      "sha256": "2c08c7f997f6e294de17a26b833beda841d5b2167473de429522e1bbeeb68964",
+      "saved_at": "2026-05-30T17:23:59.979Z"
+    },
+    {
+      "style_id": "generate-craig-groeschel-sermons",
+      "style_name": "Craig Groeschel",
+      "filename": "05_craig_groeschel_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/05_craig_groeschel_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 8910,
+      "sha256": "c4f62288834b0f7a4507a401e2c982093ac6d7a91a7cff34332cfb6ef2b91f27",
+      "saved_at": "2026-05-30T17:25:11.630Z"
+    },
+    {
+      "style_id": "generate-ed-young-jr-sermons",
+      "style_name": "Ed Young Jr.",
+      "filename": "06_ed_young_jr_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/06_ed_young_jr_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 8489,
+      "sha256": "a0db15addc41aac2b194f95d0578d50da7c1d18bf2fdd01543d81c8d88d4743f",
+      "saved_at": "2026-05-30T17:26:07.268Z"
+    },
+    {
+      "style_id": "generate-eugene-lowry-sermons",
+      "style_name": "Eugene Lowry",
+      "filename": "07_eugene_lowry_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/07_eugene_lowry_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 9220,
+      "sha256": "11d24e39207c8544f786ba631676c53bda6f4685ca356abb8f671e163281d027",
+      "saved_at": "2026-05-30T17:27:02.721Z"
+    },
+    {
+      "style_id": "generate-fred-craddock-sermons",
+      "style_name": "Fred Craddock",
+      "filename": "08_fred_craddock_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/08_fred_craddock_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 7054,
+      "sha256": "b8a3499a38538cfda6f77eff682cf49d99e74f32c03894842a7abdbc613f45ee",
+      "saved_at": "2026-05-30T17:27:49.095Z"
+    },
+    {
+      "style_id": "generate-haddon-robinson-sermons",
+      "style_name": "Haddon Robinson",
+      "filename": "09_haddon_robinson_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/09_haddon_robinson_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 7475,
+      "sha256": "bcf6c65046694cf5fb3b147e8269ea41e93d29ee6f7cff6e33f192d14e9f0679",
+      "saved_at": "2026-05-30T17:29:10.148Z"
+    },
+    {
+      "style_id": "generate-integrated-sermons",
+      "style_name": "Integrated",
+      "filename": "10_integrated_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/10_integrated_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 7537,
+      "sha256": "c96818dfe4c42b44b0a290321acb423a277a7465aa5c8e238dd07a72c0f42ecb",
+      "saved_at": "2026-05-30T17:29:51.268Z"
+    },
+    {
+      "style_id": "generate-joel-osteen-sermons",
+      "style_name": "Joel Osteen",
+      "filename": "11_joel_osteen_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/11_joel_osteen_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 6968,
+      "sha256": "7c40e5e5e7f10325d65b97c6b17fecabf828f2785b0732b6c7ddb211f3ec6028",
+      "saved_at": "2026-05-30T17:30:36.419Z"
+    },
+    {
+      "style_id": "generate-john-macarthur-sermons",
+      "style_name": "John MacArthur",
+      "filename": "12_john_macarthur_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/12_john_macarthur_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 8236,
+      "sha256": "aa83d36b6583217c4a3976acffdaf6f6b72a8ff12140b61e9bc14a4bba954efc",
+      "saved_at": "2026-05-30T17:31:15.799Z"
+    },
+    {
+      "style_id": "generate-john-stott-sermons",
+      "style_name": "John Stott",
+      "filename": "13_john_stott_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/13_john_stott_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 7300,
+      "sha256": "dda626e10dd43de75dd6ad784a9ee98d29f5c2b5e07febefb62ebf13dbcef26a",
+      "saved_at": "2026-05-30T17:31:54.252Z"
+    },
+    {
+      "style_id": "generate-joyce-meyer-sermons",
+      "style_name": "Joyce Meyer",
+      "filename": "14_joyce_meyer_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/14_joyce_meyer_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 6688,
+      "sha256": "8e7e27cb4bc9ec2bc47259d35d258c4ef363d4d60e15faf90a4d276adaf7f6db",
+      "saved_at": "2026-05-30T17:32:45.898Z"
+    },
+    {
+      "style_id": "generate-lane-sebring-sermons",
+      "style_name": "Lane Sebring",
+      "filename": "15_lane_sebring_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/15_lane_sebring_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 6091,
+      "sha256": "4862000bba593aafcec5e1caa7f9a55c882bec1ee9e273ed5fbd6e97ac8c98e8",
+      "saved_at": "2026-05-30T17:33:16.044Z"
+    },
+    {
+      "style_id": "generate-louie-giglio-sermons",
+      "style_name": "Louie Giglio",
+      "filename": "16_louie_giglio_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/16_louie_giglio_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 839,
+      "sha256": "95cd327edeb2a667c23425027d94c1f61d97c17c23506ed73fb7046b49167f88",
+      "saved_at": "2026-05-30T17:34:59.555Z"
+    },
+    {
+      "style_id": "generate-michael-todd-sermons",
+      "style_name": "Michael Todd",
+      "filename": "17_michael_todd_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/17_michael_todd_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 5466,
+      "sha256": "59b6be450c69f0662fc8d9aac45febc96ddb0535cab1b1681effd1129b9cd521",
+      "saved_at": "2026-05-30T17:35:47.649Z"
+    },
+    {
+      "style_id": "generate-paul-scott-wilson-sermons",
+      "style_name": "Paul Scott Wilson",
+      "filename": "18_paul_scott_wilson_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/18_paul_scott_wilson_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 5032,
+      "sha256": "01a2abd69c08895ab8c4c2d73aa4f74d396a2d5d0126ef882b4473b3056b5fff",
+      "saved_at": "2026-05-30T17:36:17.571Z"
+    },
+    {
+      "style_id": "generate-rick-blackwood-sermons",
+      "style_name": "Rick Blackwood",
+      "filename": "19_rick_blackwood_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/19_rick_blackwood_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 4976,
+      "sha256": "4186ea804145c9783b5fd01d0535960592bc5191aa1d8cb086dc6d8a73790639",
+      "saved_at": "2026-05-30T17:37:08.401Z"
+    },
+    {
+      "style_id": "generate-rick-warren-sermons",
+      "style_name": "Rick Warren",
+      "filename": "20_rick_warren_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/20_rick_warren_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 4013,
+      "sha256": "bc4ba3a87156b96767aef66f1e7460cd5db367e637ca6968969fac0a3943148f",
+      "saved_at": "2026-05-30T17:37:44.499Z"
+    },
+    {
+      "style_id": "generate-steven-furtick-sermons",
+      "style_name": "Steven Furtick",
+      "filename": "21_steven_furtick_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/21_steven_furtick_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 5861,
+      "sha256": "08c70ada9903823504aa7e18c24ffbd15375d90a62810a9a1d7ccae931612fce",
+      "saved_at": "2026-05-30T17:39:04.131Z"
+    },
+    {
+      "style_id": "generate-sticky-sermons",
+      "style_name": "Sticky",
+      "filename": "22_sticky_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/22_sticky_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 4243,
+      "sha256": "e70261ab82113e5f84a4d25d2d518e61420bb9ac1d6e6b94305e19441453dc3e",
+      "saved_at": "2026-05-30T17:40:01.948Z"
+    },
+    {
+      "style_id": "generate-td-jakes-sermons",
+      "style_name": "T.D. Jakes",
+      "filename": "23_td_jakes_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/23_td_jakes_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 4936,
+      "sha256": "0832cecea8a13918a0c97e9a26ce2a256bae41df87005179ceeab61aea31e301",
+      "saved_at": "2026-05-30T17:40:32.620Z"
+    },
+    {
+      "style_id": "generate-timothy-keller-sermons",
+      "style_name": "Timothy Keller",
+      "filename": "24_timothy_keller_2_reis_6_8_23_sermao_completo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/24_timothy_keller_2_reis_6_8_23_sermao_completo.md",
+      "bytes": 6304,
+      "sha256": "6492c386a6b4eb4d548e733f09760f766746002a3e663004d2d2964252af7de2",
+      "saved_at": "2026-05-30T17:41:09.065Z"
+    }
+  ],
+  "rebuild_zip_on_save": true,
+  "zip_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68.zip",
+  "finalized_at": "2026-05-30T17:41:28.883Z"
+}

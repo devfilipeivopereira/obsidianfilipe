@@ -6,6 +6,7 @@
       {
         "id": "28e9ddd3017884d5",
         "type": "tabs",
+        "dimension": 39.68926553672316,
         "children": [
           {
             "id": "aed44ee736cb378a",
@@ -19,6 +20,27 @@
               },
               "icon": "lucide-file",
               "title": "001-os-olhos-que-nao-enxergam"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2218bef76fa4d82e",
+        "type": "tabs",
+        "dimension": 60.31073446327684,
+        "children": [
+          {
+            "id": "db4ca5fc29bfef43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem título.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sem título"
             }
           }
         ]
@@ -78,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 247.5
   },
   "right": {
     "id": "6fc72ce5bb285566",
@@ -223,8 +245,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "d29578b91d9aad0f",
+  "active": "db4ca5fc29bfef43",
   "lastOpenFiles": [
+    "Sem título.md",
+    "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/esbocos_2reis/001-os-olhos-que-nao-enxergam.md",
     "Ministério/Sermões/O Diabo Veste Prada/o-diabo-veste-prada__rick-blackwood.md",
     "Ministério/Sermões/O Diabo Veste Prada/o-diabo-veste-prada__john-macarthur.md",
     "Ministério/Sermões/O Diabo Veste Prada/o-diabo-veste-prada__steven-furtick.md",
@@ -251,8 +275,6 @@
     "Ministério/Sermões/anjo-de-luz/anjo-de-luz__louie-giglio.md",
     "Ministério/Sermões/anjo-de-luz/anjo-de-luz__michael-todd.md",
     "Ministério/Sermões/anjo-de-luz/anjo-de-luz__lane-sebring.md",
-    "Ministério/Sermões/anjo-de-luz/anjo-de-luz__joyce-meyer.md",
-    "Ministério/Sermões/anjo-de-luz/anjo-de-luz__john-macarthur.md",
     "Ministério/Sermões/anjo-de-luz",
     "Ministério/Sermões/O Diabo Veste Prada/o-diabo-veste-prada",
     "Ministério/Sermões/Série Eliseu/2 Reis 6 8-23/Não confirmado 470981.crdownload",
