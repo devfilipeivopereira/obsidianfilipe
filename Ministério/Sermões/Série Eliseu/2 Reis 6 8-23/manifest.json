@@ -1,11 +1,11 @@
 {
-  "job_id": "sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68",
-  "title": "Sermões completos 4000 palavras — 2 Reis 6:8-23",
-  "slug": "sermoes-completos-4000-palavras-2-reis-6-8-23",
-  "source": "2 Reis 6:8-23",
-  "scope": "completa",
-  "language": "Português do Brasil",
-  "audience": "igreja evangélica adulta",
+  "job_id": "novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445",
+  "title": "Novos Esboços Detalhados — 2 Reis 6:8-23 — O que Deus vê que você não está vendo?",
+  "slug": "novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo",
+  "source": "Sermão anexo: Três Coisas que Deus Vê — e Nós Não Vemos, texto base 2 Reis 6:8-23",
+  "scope": "esboco",
+  "language": "pt-BR",
+  "audience": "igreja evangélica brasileira; pregadores, líderes e criadores de conteúdo cristão",
   "selected_style_ids": [
     "generate-alyce-mckenzie-sermons",
     "generate-andy-stanley-sermons",
@@ -33,227 +33,227 @@
     "generate-timothy-keller-sermons"
   ],
   "status": "finalized",
-  "created_at": "2026-05-30T17:16:48.883Z",
-  "updated_at": "2026-05-30T17:41:28.883Z",
+  "created_at": "2026-05-31T18:15:58.892Z",
+  "updated_at": "2026-05-31T18:40:50.357Z",
   "files": [
     {
       "style_id": "generate-alyce-mckenzie-sermons",
       "style_name": "Alyce Mckenzie",
-      "filename": "01_alyce_mckenzie_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/01_alyce_mckenzie_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 15270,
-      "sha256": "c2a47b0122545f48d69c9cd4371c81f5fca43a04ff9eb6d2af1f41df2b89294d",
-      "saved_at": "2026-05-30T17:18:40.592Z"
+      "filename": "01_alyce_mckenzie_2_reis_6_8_23_abre_os_olhos_do_medo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/01_alyce_mckenzie_2_reis_6_8_23_abre_os_olhos_do_medo.md",
+      "bytes": 10633,
+      "sha256": "8c3c7d90b0cd6cf739701e9b221155707f9d3a44b1d8e18b63608b91edbe0d83",
+      "saved_at": "2026-05-31T18:18:30.332Z"
     },
     {
       "style_id": "generate-andy-stanley-sermons",
       "style_name": "Andy Stanley",
-      "filename": "02_andy_stanley_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/02_andy_stanley_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 12005,
-      "sha256": "d9fe402aad7cb9a9d52f896d4354d315bef60c04b47ba1a7265be690fbae27e1",
-      "saved_at": "2026-05-30T17:20:01.773Z"
+      "filename": "02_andy_stanley_2_reis_6_8_23_nao_decida_pelo_primeiro_olhar.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/02_andy_stanley_2_reis_6_8_23_nao_decida_pelo_primeiro_olhar.md",
+      "bytes": 8688,
+      "sha256": "5b36492fcf0c037a70e9616ec6199a20d313128d02d986a7c50ca30bbd8fade4",
+      "saved_at": "2026-05-31T18:19:29.409Z"
     },
     {
       "style_id": "generate-brian-jones-sermons",
       "style_name": "Brian Jones",
-      "filename": "03_brian_jones_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/03_brian_jones_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 10171,
-      "sha256": "082849c15370fb4a86371d58340734eda8a490c698de02bd7b4381069eac702d",
-      "saved_at": "2026-05-30T17:21:59.439Z"
+      "filename": "03_brian_jones_2_reis_6_8_23_pare_antes_de_reagir.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/03_brian_jones_2_reis_6_8_23_pare_antes_de_reagir.md",
+      "bytes": 8917,
+      "sha256": "48349ce52c52aebb5169d306d285f5b027ed85fb3d59e98077c1b306c2103cf0",
+      "saved_at": "2026-05-31T18:20:18.470Z"
     },
     {
       "style_id": "generate-calvin-miller-sermons",
       "style_name": "Calvin Miller",
-      "filename": "04_calvin_miller_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/04_calvin_miller_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 10501,
-      "sha256": "2c08c7f997f6e294de17a26b833beda841d5b2167473de429522e1bbeeb68964",
-      "saved_at": "2026-05-30T17:23:59.979Z"
+      "filename": "04_calvin_miller_2_reis_6_8_23_os_montes_ja_estavam_cheios.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/04_calvin_miller_2_reis_6_8_23_os_montes_ja_estavam_cheios.md",
+      "bytes": 8986,
+      "sha256": "dde69fc4195219c0e0d136e2f6ba9f32026e2a774ace2a089d35de35c381138b",
+      "saved_at": "2026-05-31T18:21:10.629Z"
     },
     {
       "style_id": "generate-craig-groeschel-sermons",
       "style_name": "Craig Groeschel",
-      "filename": "05_craig_groeschel_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/05_craig_groeschel_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 8910,
-      "sha256": "c4f62288834b0f7a4507a401e2c982093ac6d7a91a7cff34332cfb6ef2b91f27",
-      "saved_at": "2026-05-30T17:25:11.630Z"
+      "filename": "05_craig_groeschel_2_reis_6_8_23_a_visao_que_muda_a_reacao.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/05_craig_groeschel_2_reis_6_8_23_a_visao_que_muda_a_reacao.md",
+      "bytes": 8012,
+      "sha256": "307754b7934fbedabafb9f445667458435183e6382031179fefaf0526777d42e",
+      "saved_at": "2026-05-31T18:22:09.039Z"
     },
     {
       "style_id": "generate-ed-young-jr-sermons",
       "style_name": "Ed Young Jr.",
-      "filename": "06_ed_young_jr_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/06_ed_young_jr_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 8489,
-      "sha256": "a0db15addc41aac2b194f95d0578d50da7c1d18bf2fdd01543d81c8d88d4743f",
-      "saved_at": "2026-05-30T17:26:07.268Z"
+      "filename": "06_ed_young_jr_2_reis_6_8_23_zoom_errado.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/06_ed_young_jr_2_reis_6_8_23_zoom_errado.md",
+      "bytes": 7709,
+      "sha256": "26276c580bbf9bca3c708b0c140dc49e735271d7ae578566fc053ffdd6990480",
+      "saved_at": "2026-05-31T18:22:53.637Z"
     },
     {
       "style_id": "generate-eugene-lowry-sermons",
       "style_name": "Eugene Lowry",
-      "filename": "07_eugene_lowry_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/07_eugene_lowry_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 9220,
-      "sha256": "11d24e39207c8544f786ba631676c53bda6f4685ca356abb8f671e163281d027",
-      "saved_at": "2026-05-30T17:27:02.721Z"
+      "filename": "07_eugene_lowry_2_reis_6_8_23_quando_a_solucao_nao_e_ver_menos.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/07_eugene_lowry_2_reis_6_8_23_quando_a_solucao_nao_e_ver_menos.md",
+      "bytes": 7601,
+      "sha256": "732dd57bf4f9fff2cbd6892a2853ba555c338c134356334e1b6c34200f690283",
+      "saved_at": "2026-05-31T18:23:48.031Z"
     },
     {
       "style_id": "generate-fred-craddock-sermons",
       "style_name": "Fred Craddock",
-      "filename": "08_fred_craddock_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/08_fred_craddock_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 7054,
-      "sha256": "b8a3499a38538cfda6f77eff682cf49d99e74f32c03894842a7abdbc613f45ee",
-      "saved_at": "2026-05-30T17:27:49.095Z"
+      "filename": "08_fred_craddock_2_reis_6_8_23_a_manha_nao_era_so_cerco.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/08_fred_craddock_2_reis_6_8_23_a_manha_nao_era_so_cerco.md",
+      "bytes": 6444,
+      "sha256": "e6b48e5b61d56a34a607aecfa133de33e2e5d18b398480aeaae2118f258ea530",
+      "saved_at": "2026-05-31T18:25:03.630Z"
     },
     {
       "style_id": "generate-haddon-robinson-sermons",
       "style_name": "Haddon Robinson",
-      "filename": "09_haddon_robinson_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/09_haddon_robinson_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 7475,
-      "sha256": "bcf6c65046694cf5fb3b147e8269ea41e93d29ee6f7cff6e33f192d14e9f0679",
-      "saved_at": "2026-05-30T17:29:10.148Z"
+      "filename": "09_haddon_robinson_2_reis_6_8_23_a_ideia_central_da_visao_aberta.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/09_haddon_robinson_2_reis_6_8_23_a_ideia_central_da_visao_aberta.md",
+      "bytes": 6678,
+      "sha256": "501462da375b71d9f5772c7c89f6d1f2bc9ece62ec8a665b7a326c07c1bb013c",
+      "saved_at": "2026-05-31T18:26:03.128Z"
     },
     {
       "style_id": "generate-integrated-sermons",
       "style_name": "Integrated",
-      "filename": "10_integrated_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/10_integrated_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 7537,
-      "sha256": "c96818dfe4c42b44b0a290321acb423a277a7465aa5c8e238dd07a72c0f42ecb",
-      "saved_at": "2026-05-30T17:29:51.268Z"
+      "filename": "10_integrated_2_reis_6_8_23_visao_alem_do_cerco.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/10_integrated_2_reis_6_8_23_visao_alem_do_cerco.md",
+      "bytes": 7671,
+      "sha256": "23ecf4c6f8bbb348a3938b2ed0c38005ba282db91cd5d88d7c57673c4d848c3f",
+      "saved_at": "2026-05-31T18:26:48.200Z"
     },
     {
       "style_id": "generate-joel-osteen-sermons",
       "style_name": "Joel Osteen",
-      "filename": "11_joel_osteen_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/11_joel_osteen_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 6968,
-      "sha256": "7c40e5e5e7f10325d65b97c6b17fecabf828f2785b0732b6c7ddb211f3ec6028",
-      "saved_at": "2026-05-30T17:30:36.419Z"
+      "filename": "11_joel_osteen_2_reis_6_8_23_deus_ja_preparou_o_que_voce_ainda_nao_ve.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/11_joel_osteen_2_reis_6_8_23_deus_ja_preparou_o_que_voce_ainda_nao_ve.md",
+      "bytes": 7749,
+      "sha256": "956c434a95a64c31a1014433fdfe72239110b74275cbddc20996fbc248445177",
+      "saved_at": "2026-05-31T18:27:34.147Z"
     },
     {
       "style_id": "generate-john-macarthur-sermons",
       "style_name": "John MacArthur",
-      "filename": "12_john_macarthur_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/12_john_macarthur_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 8236,
-      "sha256": "aa83d36b6583217c4a3976acffdaf6f6b72a8ff12140b61e9bc14a4bba954efc",
-      "saved_at": "2026-05-30T17:31:15.799Z"
+      "filename": "12_john_macarthur_2_reis_6_8_23_a_soberania_de_deus_sobre_o_visivel_e_o_invisivel.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/12_john_macarthur_2_reis_6_8_23_a_soberania_de_deus_sobre_o_visivel_e_o_invisivel.md",
+      "bytes": 7665,
+      "sha256": "dc7ac9c30ef22269441017514ed17c1d73fc16b0a9db57e789448f5b601e4a49",
+      "saved_at": "2026-05-31T18:28:27.521Z"
     },
     {
       "style_id": "generate-john-stott-sermons",
       "style_name": "John Stott",
-      "filename": "13_john_stott_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/13_john_stott_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 7300,
-      "sha256": "dda626e10dd43de75dd6ad784a9ee98d29f5c2b5e07febefb62ebf13dbcef26a",
-      "saved_at": "2026-05-30T17:31:54.252Z"
+      "filename": "13_john_stott_2_reis_6_8_23_entre_o_cerco_e_os_carros_de_fogo.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/13_john_stott_2_reis_6_8_23_entre_o_cerco_e_os_carros_de_fogo.md",
+      "bytes": 7123,
+      "sha256": "56425bcaa96e70d517d81b3807eea7a682103ccf40140d78031b90fcde7c9ea9",
+      "saved_at": "2026-05-31T18:29:06.746Z"
     },
     {
       "style_id": "generate-joyce-meyer-sermons",
       "style_name": "Joyce Meyer",
-      "filename": "14_joyce_meyer_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/14_joyce_meyer_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 6688,
-      "sha256": "8e7e27cb4bc9ec2bc47259d35d258c4ef363d4d60e15faf90a4d276adaf7f6db",
-      "saved_at": "2026-05-30T17:32:45.898Z"
+      "filename": "14_joyce_meyer_2_reis_6_8_23_pare_de_acreditar_no_pior_cenario.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/14_joyce_meyer_2_reis_6_8_23_pare_de_acreditar_no_pior_cenario.md",
+      "bytes": 7132,
+      "sha256": "c1c525045a20a3e2465523664804aad79dd319cce05473cffa3da7978480fd6c",
+      "saved_at": "2026-05-31T18:29:46.715Z"
     },
     {
       "style_id": "generate-lane-sebring-sermons",
       "style_name": "Lane Sebring",
-      "filename": "15_lane_sebring_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/15_lane_sebring_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 6091,
-      "sha256": "4862000bba593aafcec5e1caa7f9a55c882bec1ee9e273ed5fbd6e97ac8c98e8",
-      "saved_at": "2026-05-30T17:33:16.044Z"
+      "filename": "15_lane_sebring_2_reis_6_8_23_responda_depois_de_ver_com_deus.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/15_lane_sebring_2_reis_6_8_23_responda_depois_de_ver_com_deus.md",
+      "bytes": 6768,
+      "sha256": "bb1b8cd5f54d16cf8610028f1bee61fa958fda73f8321f7633d1797d68dd7229",
+      "saved_at": "2026-05-31T18:30:29.169Z"
     },
     {
       "style_id": "generate-louie-giglio-sermons",
       "style_name": "Louie Giglio",
-      "filename": "16_louie_giglio_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/16_louie_giglio_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 839,
-      "sha256": "95cd327edeb2a667c23425027d94c1f61d97c17c23506ed73fb7046b49167f88",
-      "saved_at": "2026-05-30T17:34:59.555Z"
+      "filename": "16_louie_giglio_2_reis_6_8_23_quando_deus_fica_maior_que_o_cerco.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/16_louie_giglio_2_reis_6_8_23_quando_deus_fica_maior_que_o_cerco.md",
+      "bytes": 6621,
+      "sha256": "60d71d561beaf79fe38da81fa4254c428692d0a732d52edd68d9a0905a02fa5c",
+      "saved_at": "2026-05-31T18:31:14.575Z"
     },
     {
       "style_id": "generate-michael-todd-sermons",
       "style_name": "Michael Todd",
-      "filename": "17_michael_todd_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/17_michael_todd_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 5466,
-      "sha256": "59b6be450c69f0662fc8d9aac45febc96ddb0535cab1b1681effd1129b9cd521",
-      "saved_at": "2026-05-30T17:35:47.649Z"
+      "filename": "17_michael_todd_2_reis_6_8_23_nao_deixe_o_cerco_ser_o_editor.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/17_michael_todd_2_reis_6_8_23_nao_deixe_o_cerco_ser_o_editor.md",
+      "bytes": 6177,
+      "sha256": "4b5bfcad1ba42088ff30faae5e24a364a83c09fb57da6ca3e3ecd8e22ed48d41",
+      "saved_at": "2026-05-31T18:31:55.531Z"
     },
     {
       "style_id": "generate-paul-scott-wilson-sermons",
       "style_name": "Paul Scott Wilson",
-      "filename": "18_paul_scott_wilson_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/18_paul_scott_wilson_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 5032,
-      "sha256": "01a2abd69c08895ab8c4c2d73aa4f74d396a2d5d0126ef882b4473b3056b5fff",
-      "saved_at": "2026-05-30T17:36:17.571Z"
+      "filename": "18_paul_scott_wilson_2_reis_6_8_23_deus_abre_os_olhos_e_prepara_a_mesa.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/18_paul_scott_wilson_2_reis_6_8_23_deus_abre_os_olhos_e_prepara_a_mesa.md",
+      "bytes": 6255,
+      "sha256": "ec152f7604faeda8ea50503fd24401fb4b7cdbec7ee12da01deda951c30412e2",
+      "saved_at": "2026-05-31T18:32:41.227Z"
     },
     {
       "style_id": "generate-rick-blackwood-sermons",
       "style_name": "Rick Blackwood",
-      "filename": "19_rick_blackwood_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/19_rick_blackwood_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 4976,
-      "sha256": "4186ea804145c9783b5fd01d0535960592bc5191aa1d8cb086dc6d8a73790639",
-      "saved_at": "2026-05-30T17:37:08.401Z"
+      "filename": "19_rick_blackwood_2_reis_6_8_23_o_quadro_inteiro.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/19_rick_blackwood_2_reis_6_8_23_o_quadro_inteiro.md",
+      "bytes": 5711,
+      "sha256": "2e634acd0cd9d381370b3c61f5a99880bae5cb28ccbe0c73ffbbcfc6ac19d11e",
+      "saved_at": "2026-05-31T18:33:23.967Z"
     },
     {
       "style_id": "generate-rick-warren-sermons",
       "style_name": "Rick Warren",
-      "filename": "20_rick_warren_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/20_rick_warren_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 4013,
-      "sha256": "bc4ba3a87156b96767aef66f1e7460cd5db367e637ca6968969fac0a3943148f",
-      "saved_at": "2026-05-30T17:37:44.499Z"
+      "filename": "20_rick_warren_2_reis_6_8_23_quatro_passos_para_ver_com_fe.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/20_rick_warren_2_reis_6_8_23_quatro_passos_para_ver_com_fe.md",
+      "bytes": 5923,
+      "sha256": "ea9bd8085d7d88e632147f8673ab60b7aa41ce5fe6c01a7c078862f727e4bf4b",
+      "saved_at": "2026-05-31T18:33:58.764Z"
     },
     {
       "style_id": "generate-steven-furtick-sermons",
       "style_name": "Steven Furtick",
-      "filename": "21_steven_furtick_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/21_steven_furtick_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 5861,
-      "sha256": "08c70ada9903823504aa7e18c24ffbd15375d90a62810a9a1d7ccae931612fce",
-      "saved_at": "2026-05-30T17:39:04.131Z"
+      "filename": "21_steven_furtick_2_reis_6_8_23_nao_e_so_o_que_voce_ve.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/21_steven_furtick_2_reis_6_8_23_nao_e_so_o_que_voce_ve.md",
+      "bytes": 6390,
+      "sha256": "0db6f9b00b3c7ed64dd880eede95e65dd7f282497bd5af90323412634d2a5a9e",
+      "saved_at": "2026-05-31T18:35:14.925Z"
     },
     {
       "style_id": "generate-sticky-sermons",
       "style_name": "Sticky",
-      "filename": "22_sticky_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/22_sticky_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 4243,
-      "sha256": "e70261ab82113e5f84a4d25d2d518e61420bb9ac1d6e6b94305e19441453dc3e",
-      "saved_at": "2026-05-30T17:40:01.948Z"
+      "filename": "22_sticky_2_reis_6_8_23_o_cerco_nao_e_a_historia_inteira.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/22_sticky_2_reis_6_8_23_o_cerco_nao_e_a_historia_inteira.md",
+      "bytes": 5070,
+      "sha256": "9d2dfae641cb71142716edd1d2054f1f4242862e3cca9017e56183942102d26b",
+      "saved_at": "2026-05-31T18:36:02.825Z"
     },
     {
       "style_id": "generate-td-jakes-sermons",
       "style_name": "T.D. Jakes",
-      "filename": "23_td_jakes_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/23_td_jakes_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 4936,
-      "sha256": "0832cecea8a13918a0c97e9a26ce2a256bae41df87005179ceeab61aea31e301",
-      "saved_at": "2026-05-30T17:40:32.620Z"
+      "filename": "23_td_jakes_2_reis_6_8_23_deus_abre_a_cortina.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/23_td_jakes_2_reis_6_8_23_deus_abre_a_cortina.md",
+      "bytes": 6248,
+      "sha256": "cfabb0691688401815d6a0315695c4085d9806695afcac6505b98667e9d06b7c",
+      "saved_at": "2026-05-31T18:37:05.682Z"
     },
     {
       "style_id": "generate-timothy-keller-sermons",
       "style_name": "Timothy Keller",
-      "filename": "24_timothy_keller_2_reis_6_8_23_sermao_completo.md",
-      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68/24_timothy_keller_2_reis_6_8_23_sermao_completo.md",
-      "bytes": 6304,
-      "sha256": "6492c386a6b4eb4d548e733f09760f766746002a3e663004d2d2964252af7de2",
-      "saved_at": "2026-05-30T17:41:09.065Z"
+      "filename": "24_timothy_keller_2_reis_6_8_23_a_realidade_maior_que_o_medro.md",
+      "file_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445/24_timothy_keller_2_reis_6_8_23_a_realidade_maior_que_o_medro.md",
+      "bytes": 7855,
+      "sha256": "81cc88f0ef29680d5638eb7b9005a21206b4e43077933f02d41a6007531f21fc",
+      "saved_at": "2026-05-31T18:38:05.336Z"
     }
   ],
   "rebuild_zip_on_save": true,
-  "zip_url": "https://mcp.167.86.110.57.nip.io/downloads/sermoes-completos-4000-palavras-2-reis-6-8-23-31a44e68.zip",
-  "finalized_at": "2026-05-30T17:41:28.883Z"
+  "zip_url": "https://mcp.167.86.110.57.nip.io/downloads/novos-esbocos-detalhados-2-reis-6-8-23-o-que-deus-ve-que-voce-nao-esta-vendo-90dd3445.zip",
+  "finalized_at": "2026-05-31T18:40:50.357Z"
 }
